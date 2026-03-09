@@ -1,0 +1,306 @@
+[
+  {
+    "id": 368,
+    "lm_number": 368,
+    "prefix": "Er.",
+    "name": "Anuj Kumar",
+    "batch_year": 2007,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anujnek@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "anuj.kumar@bhel.in"
+      }
+    ]
+  },
+  {
+    "id": 566,
+    "lm_number": 566,
+    "prefix": "Er.",
+    "name": "Anupam Kumar",
+    "batch_year": 2007,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anupam1412003@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 538,
+    "lm_number": 538,
+    "prefix": "Er.",
+    "name": "Anupam Kumar Awasthi",
+    "batch_year": 2007,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anupamkawasthi@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 561,
+    "lm_number": 561,
+    "prefix": "Er.",
+    "name": "Arun Kumar Chaudhary",
+    "batch_year": 2007,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mnnit.arun@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 366,
+    "lm_number": 366,
+    "prefix": "Er.",
+    "name": "Ashish Shukla",
+    "batch_year": 2007,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "jubiliant.ashish@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "ashish.shukla@eil.co.in"
+      }
+    ]
+  },
+  {
+    "id": 571,
+    "lm_number": 571,
+    "prefix": "Er.",
+    "name": "Divyankur Choudhary",
+    "batch_year": 2007,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "cooldiv25ster@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 342,
+    "lm_number": 342,
+    "prefix": "Er.",
+    "name": "Gajendra Singh",
+    "batch_year": 2007,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shera620@yahoo.co.in"
+      },
+      {
+        "type": "personal",
+        "email": "er.gajendra@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 546,
+    "lm_number": 546,
+    "prefix": "Er.",
+    "name": "Rajeev Ranjan Jha",
+    "batch_year": 2007,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajeevjha4u@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "eat_raj@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 542,
+    "lm_number": 542,
+    "prefix": "Er.",
+    "name": "Raju Kumar",
+    "batch_year": 2007,
+    "branch": "IT",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajublee@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 544,
+    "lm_number": 544,
+    "prefix": "Er.",
+    "name": "Ram Prakash",
+    "batch_year": 2007,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ramprakash419@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 543,
+    "lm_number": 543,
+    "prefix": "Er.",
+    "name": "Suyash Sikarwar",
+    "batch_year": 2007,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "suyash.sikarwar@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 545,
+    "lm_number": 545,
+    "prefix": "Er.",
+    "name": "Swetank Shekhar",
+    "batch_year": 2007,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shekhar.swetank@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 490,
+    "lm_number": 490,
+    "prefix": "Er.",
+    "name": "Thodeti Siril Kumar",
+    "batch_year": 2007,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "siril.techi@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "siril.thodeti@comfonomics.com"
+      }
+    ]
+  },
+  {
+    "id": 552,
+    "lm_number": 552,
+    "prefix": "Er.",
+    "name": "Vidyaratan",
+    "batch_year": 2007,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vidyaratan@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "vidyaratan2010@yahoo.com"
+      }
+    ]
+  }
+]

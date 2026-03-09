@@ -1,0 +1,85 @@
+[
+  {
+    "id": 365,
+    "lm_number": 365,
+    "prefix": "Er.",
+    "name": "Arihant Jain",
+    "batch_year": 2009,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "arihant.mnnit@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "arihant.j@samsung.com"
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "lm_number": 403,
+    "prefix": "Er.",
+    "name": "Manav Gupta",
+    "batch_year": 2009,
+    "branch": "IT",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "manavgpt@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 526,
+    "lm_number": 526,
+    "prefix": "Er.",
+    "name": "Pradeep Kumar Singh",
+    "batch_year": 2009,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "realypradeep@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "sumana153@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "lm_number": 398,
+    "prefix": "Late",
+    "name": "Er. Someshwar Banerjee",
+    "batch_year": 2009,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

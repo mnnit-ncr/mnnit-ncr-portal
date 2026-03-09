@@ -1,0 +1,113 @@
+[
+  {
+    "id": 379,
+    "lm_number": 379,
+    "prefix": "Er.",
+    "name": "Anand Kumar Srivastava",
+    "batch_year": 1997,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "aanandks@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "anandksri22aug@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 361,
+    "lm_number": 361,
+    "prefix": "Er.",
+    "name": "Jatinder Kumar Shukla",
+    "batch_year": 1997,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shuklajk@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "shukla_jatin@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 321,
+    "lm_number": 321,
+    "prefix": "Er.",
+    "name": "Kumar Rajiv Nayan",
+    "batch_year": 1997,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "krajivnayan@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "nayan.rajiv@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "lm_number": 75,
+    "prefix": "Er.",
+    "name": "Mahesh Sachan",
+    "batch_year": 1997,
+    "branch": "Production Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 591,
+    "lm_number": 591,
+    "prefix": "Er.",
+    "name": "Shiv Narayan",
+    "batch_year": 1997,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shiv.unnao@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "shiv.mnnit.1997@gmail.com"
+      }
+    ]
+  }
+]

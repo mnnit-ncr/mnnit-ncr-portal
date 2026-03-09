@@ -1,0 +1,258 @@
+[
+  {
+    "id": 518,
+    "lm_number": 518,
+    "prefix": "Col.",
+    "name": "Love Sharma",
+    "batch_year": 1985,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "lovesharma3522@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "lm_number": 401,
+    "prefix": "Col.",
+    "name": "Naveen Jha",
+    "batch_year": 1985,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "naveenjha10@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "lm_number": 279,
+    "prefix": "Er.",
+    "name": "Chandra Shekhar Mudgal",
+    "batch_year": 1985,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "c.s.mudgal1961@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 579,
+    "lm_number": 579,
+    "prefix": "Er.",
+    "name": "Krishan Kumar Singh",
+    "batch_year": 1985,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "kksingh461962@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 474,
+    "lm_number": 474,
+    "prefix": "Er.",
+    "name": "M. K. Pangtey",
+    "batch_year": 1985,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mkpangtey1962@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 475,
+    "lm_number": 475,
+    "prefix": "Er.",
+    "name": "Parveen Mittar Nanda",
+    "batch_year": 1985,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pmnanda@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "pmnanda64@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 603,
+    "lm_number": 603,
+    "prefix": "Er.",
+    "name": "Sanjay Verma",
+    "batch_year": 1985,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vsanjay634@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "lm_number": 301,
+    "prefix": "Er.",
+    "name": "Sudhakar Verma",
+    "batch_year": 1985,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sudhakardlf1@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 487,
+    "lm_number": 487,
+    "prefix": "Er.",
+    "name": "Susheel Kumar Verma",
+    "batch_year": 1985,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "susheel.verma@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "susheelverma@recruitment.drdo.in"
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "lm_number": 387,
+    "prefix": "Er.",
+    "name": "Umesh Chandra",
+    "batch_year": 1985,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "umeshch2001@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "umeshchandra@bel.co.in"
+      }
+    ]
+  },
+  {
+    "id": 493,
+    "lm_number": 493,
+    "prefix": "Er.",
+    "name": "Vinod Kumar Agrawal",
+    "batch_year": 1985,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vinod@csir.res.in"
+      },
+      {
+        "type": "personal",
+        "email": "vkag100@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 535,
+    "lm_number": 535,
+    "prefix": "Er.",
+    "name": "Vipul Chandra Gupta",
+    "batch_year": 1985,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vipulrg1964@yahoo.com"
+      }
+    ]
+  }
+]

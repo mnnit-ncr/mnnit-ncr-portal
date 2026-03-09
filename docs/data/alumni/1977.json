@@ -1,0 +1,438 @@
+[
+  {
+    "id": 464,
+    "lm_number": 464,
+    "prefix": "Er.",
+    "name": "A. K. Sinha",
+    "batch_year": 1977,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "aksinha1957@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "aksinha1957@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 443,
+    "lm_number": 443,
+    "prefix": "Er.",
+    "name": "Ajay Kr. Gupta",
+    "batch_year": 1977,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "akgupta1955@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "akgupta1955@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 458,
+    "lm_number": 458,
+    "prefix": "Er.",
+    "name": "Akhil Kumar Mittal",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "akm53.xmdjn@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "mittal.akhil@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "lm_number": 148,
+    "prefix": "Er.",
+    "name": "Anil Kumar Garg",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "garganil01@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 463,
+    "lm_number": 463,
+    "prefix": "Er.",
+    "name": "Ashwani Kumar Sharma",
+    "batch_year": 1977,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "aks33noida@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "lm_number": 130,
+    "prefix": "Er.",
+    "name": "Ashwani Tyagi",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 65,
+    "lm_number": 65,
+    "prefix": "Er.",
+    "name": "D. C. Joshi",
+    "batch_year": 1977,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dcjoshi15@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 568,
+    "lm_number": 568,
+    "prefix": "Er.",
+    "name": "Devendra Kumar Goyal",
+    "batch_year": 1977,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "steelgng@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "lm_number": 142,
+    "prefix": "Er.",
+    "name": "Jitendra Kr. Singhal",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 154,
+    "lm_number": 154,
+    "prefix": "Er.",
+    "name": "K. K. Gupta",
+    "batch_year": 1977,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "54.kkgupta@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "lm_number": 115,
+    "prefix": "Er.",
+    "name": "Lalit Kumar Gupta",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "guptakumarlalit@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 341,
+    "lm_number": 341,
+    "prefix": "Er.",
+    "name": "Neeraj Bhatnagar",
+    "batch_year": 1977,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "humanwellness@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "lm_number": 117,
+    "prefix": "Er.",
+    "name": "Prem Kumar Assudani",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "premassudani@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "lm_number": 147,
+    "prefix": "Er.",
+    "name": "R. P. Khare",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rpkhare1956@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "rpkmnr77@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 539,
+    "lm_number": 539,
+    "prefix": "Er.",
+    "name": "Rajesh Kataria",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "katariar1957@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "lm_number": 119,
+    "prefix": "Er.",
+    "name": "Ram Avtar Tayal",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 176,
+    "lm_number": 176,
+    "prefix": "Er.",
+    "name": "S. K. Gautam",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 513,
+    "lm_number": 513,
+    "prefix": "Er.",
+    "name": "Shyam Dhar Dubey",
+    "batch_year": 1977,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ceahpi@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 602,
+    "lm_number": 602,
+    "prefix": "Er.",
+    "name": "Surendra Pal Singh Solanki",
+    "batch_year": 1977,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "spssolanki@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "lm_number": 151,
+    "prefix": "Er.",
+    "name": "Vinay Pal Singh",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vpsupjn@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "lm_number": 425,
+    "prefix": "Er.",
+    "name": "Yogendra Kr. Jain",
+    "batch_year": 1977,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "jainyk57@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 457,
+    "lm_number": 457,
+    "prefix": "",
+    "name": "Lt.Col. (Retd) William Gordon",
+    "batch_year": 1977,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "wvgindia@gmail.com"
+      }
+    ]
+  }
+]

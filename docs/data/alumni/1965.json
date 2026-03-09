@@ -1,0 +1,167 @@
+[
+  {
+    "id": 114,
+    "lm_number": 114,
+    "prefix": "Er.",
+    "name": "B.M. Verma",
+    "batch_year": 1965,
+    "branch": "",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 266,
+    "lm_number": 266,
+    "prefix": "Er.",
+    "name": "Harwinder Kumar",
+    "batch_year": 1965,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "nikk273@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "lm_number": 133,
+    "prefix": "Er.",
+    "name": "Jag Mohan Misra",
+    "batch_year": 1965,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "misrajm@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 159,
+    "lm_number": 159,
+    "prefix": "Er.",
+    "name": "K. B. Lal",
+    "batch_year": 1965,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "kblal77@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 158,
+    "lm_number": 158,
+    "prefix": "Er.",
+    "name": "Mahendra Singh",
+    "batch_year": 1965,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 229,
+    "lm_number": 229,
+    "prefix": "Er.",
+    "name": "Ranbir Khanna",
+    "batch_year": 1965,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ranbirxp@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "lm_number": 98,
+    "prefix": "Er.",
+    "name": "Vijendra Nagar",
+    "batch_year": 1965,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vijendragm@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "lm_number": 388,
+    "prefix": "Late",
+    "name": "Dr. Kamla Kant Tripathi",
+    "batch_year": 1965,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 374,
+    "lm_number": 374,
+    "prefix": "Prof.",
+    "name": "A. B. Agrawal",
+    "batch_year": 1965,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "agrawalab1943@gmail.com"
+      }
+    ]
+  }
+]

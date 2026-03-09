@@ -1,0 +1,42 @@
+[
+  {
+    "id": 582,
+    "lm_number": 582,
+    "prefix": "Er.",
+    "name": "Akshay Mittal",
+    "batch_year": 2019,
+    "branch": "IT",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "akshaymittal@mnnit.ac.in"
+      }
+    ]
+  },
+  {
+    "id": 587,
+    "lm_number": 587,
+    "prefix": "Er.",
+    "name": "Bhavyaa Rastogi",
+    "batch_year": 2019,
+    "branch": "IT",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "bhavyaarastogi.official@gmail.com"
+      }
+    ]
+  }
+]

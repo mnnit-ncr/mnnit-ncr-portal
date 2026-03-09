@@ -1,0 +1,217 @@
+[
+  {
+    "id": 370,
+    "lm_number": 370,
+    "prefix": "Dr.",
+    "name": "Jai Prakash",
+    "batch_year": 1967,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "jpagl42@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "lm_number": 99,
+    "prefix": "Dr.",
+    "name": "Rakesh Kumar",
+    "batch_year": 1967,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 413,
+    "lm_number": 413,
+    "prefix": "Er.",
+    "name": "Akhilesh Narain Sharma",
+    "batch_year": 1967,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ansharma1@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "lm_number": 32,
+    "prefix": "Er.",
+    "name": "Chandru Bhojwani",
+    "batch_year": 1967,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "chandru_bhojwani@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "lm_number": 407,
+    "prefix": "Er.",
+    "name": "Deb Kumar Mallik",
+    "batch_year": 1967,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dkmallik@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "lm_number": 33,
+    "prefix": "Er.",
+    "name": "K.L. Varshney",
+    "batch_year": 1967,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "piyush.ait@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "lm_number": 102,
+    "prefix": "Er.",
+    "name": "Madhur Krishna",
+    "batch_year": 1967,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 394,
+    "lm_number": 394,
+    "prefix": "Er.",
+    "name": "Prakash Chandra Joshi",
+    "batch_year": 1967,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "joshitenu@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "lm_number": 94,
+    "prefix": "Er.",
+    "name": "R. K. Bajpai",
+    "batch_year": 1967,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 468,
+    "lm_number": 468,
+    "prefix": "Er.",
+    "name": "Rajendra Kumar Tandon",
+    "batch_year": 1967,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rktandon13@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "lm_number": 7,
+    "prefix": "Late",
+    "name": "Er. K.C. Kela",
+    "batch_year": 1967,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 34,
+    "lm_number": 34,
+    "prefix": "Late",
+    "name": "Er. Ravindra Consul",
+    "batch_year": 1967,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

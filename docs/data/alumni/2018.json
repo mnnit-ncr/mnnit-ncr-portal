@@ -1,0 +1,42 @@
+[
+  {
+    "id": 550,
+    "lm_number": 550,
+    "prefix": "Er.",
+    "name": "Priya Kumari",
+    "batch_year": 2018,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "priya.kri.in@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 585,
+    "lm_number": 585,
+    "prefix": "Er.",
+    "name": "Vishal Tripathi",
+    "batch_year": 2018,
+    "branch": "Computer Applications",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vishalmnnit83@gmail.com"
+      }
+    ]
+  }
+]

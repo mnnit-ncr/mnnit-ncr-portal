@@ -1,0 +1,375 @@
+[
+  {
+    "id": 59,
+    "lm_number": 59,
+    "prefix": "Cdr.",
+    "name": "R. K. Katarya (Retd)",
+    "batch_year": 1971,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "kataryaramesh@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "lm_number": 79,
+    "prefix": "Er.",
+    "name": "Ashok Kumar Tuli",
+    "batch_year": 1971,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 18,
+    "lm_number": 18,
+    "prefix": "Er.",
+    "name": "Bharat Bhushan",
+    "batch_year": 1971,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 58,
+    "lm_number": 58,
+    "prefix": "Er.",
+    "name": "C. S. Kasana",
+    "batch_year": 1971,
+    "branch": "",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 3,
+    "lm_number": 3,
+    "prefix": "Er.",
+    "name": "H. C. Choudhary",
+    "batch_year": 1971,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "aolhari@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "lm_number": 56,
+    "prefix": "Er.",
+    "name": "Lalit Kumar",
+    "batch_year": 1971,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "lalitkumar49@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 580,
+    "lm_number": 580,
+    "prefix": "Er.",
+    "name": "Pradeep Chandra Srivastava",
+    "batch_year": 1971,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pradeepcsrivastava@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "lm_number": 21,
+    "prefix": "Er.",
+    "name": "R. K. Malhotra",
+    "batch_year": 1971,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rkm18@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "act1923@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "lm_number": 55,
+    "prefix": "Er.",
+    "name": "R. S. Gaur",
+    "batch_year": 1971,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 61,
+    "lm_number": 61,
+    "prefix": "Er.",
+    "name": "Rajesh Burman",
+    "batch_year": 1971,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rburman49@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "burmanr09@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 541,
+    "lm_number": 541,
+    "prefix": "Er.",
+    "name": "Ram Shanker Katiyar",
+    "batch_year": 1971,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rs_katiyar@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "lm_number": 20,
+    "prefix": "Er.",
+    "name": "Ravi Kiran Gupta",
+    "batch_year": 1971,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ravi.k.g.2604@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "lm_number": 83,
+    "prefix": "Er.",
+    "name": "Sarvesh Chopra",
+    "batch_year": 1971,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 60,
+    "lm_number": 60,
+    "prefix": "Er.",
+    "name": "Satish Chander Verma",
+    "batch_year": 1971,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 57,
+    "lm_number": 57,
+    "prefix": "Er.",
+    "name": "Surendra Kaul",
+    "batch_year": 1971,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "kaul1948@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "lm_number": 84,
+    "prefix": "Er.",
+    "name": "Surinder Khanna",
+    "batch_year": 1971,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 2,
+    "lm_number": 2,
+    "prefix": "Er.",
+    "name": "V. K. Mehta",
+    "batch_year": 1971,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mehta112@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "lm_number": 28,
+    "prefix": "Late",
+    "name": "Er. Gulshan Malik",
+    "batch_year": 1971,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 19,
+    "lm_number": 19,
+    "prefix": "Late",
+    "name": "Er. J. P. Arora",
+    "batch_year": 1971,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 29,
+    "lm_number": 29,
+    "prefix": "Late",
+    "name": "Er. Sita Ram Mittal",
+    "batch_year": 1971,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 400,
+    "lm_number": 400,
+    "prefix": "Late",
+    "name": "Er. Vijay Kumar Malhotra",
+    "batch_year": 1971,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

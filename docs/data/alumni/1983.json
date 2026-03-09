@@ -1,0 +1,326 @@
+[
+  {
+    "id": 275,
+    "lm_number": 275,
+    "prefix": "Dr.",
+    "name": "Rajeev Kumar",
+    "batch_year": 1983,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajolly5@iitdalumni.com"
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "lm_number": 269,
+    "prefix": "Dr.",
+    "name": "Vimal Dimri",
+    "batch_year": 1983,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "v_dimri@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "lm_number": 140,
+    "prefix": "Er.",
+    "name": "A. K. Bhatnagar",
+    "batch_year": 1983,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 274,
+    "lm_number": 274,
+    "prefix": "Er.",
+    "name": "Ajay Kumar Gupta",
+    "batch_year": 1983,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ajay121961@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 600,
+    "lm_number": 600,
+    "prefix": "Er.",
+    "name": "Anurag Sharma",
+    "batch_year": 1983,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anurag.sharma34@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "lm_number": 265,
+    "prefix": "Er.",
+    "name": "Atul Singhal",
+    "batch_year": 1983,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "singhalatul@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "lm_number": 391,
+    "prefix": "Er.",
+    "name": "Brijendra Nautiyal",
+    "batch_year": 1983,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 307,
+    "lm_number": 307,
+    "prefix": "Er.",
+    "name": "Deepak Kumar Dhamija",
+    "batch_year": 1983,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 234,
+    "lm_number": 234,
+    "prefix": "Er.",
+    "name": "Dinesh Kr. Srivastava",
+    "batch_year": 1983,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 537,
+    "lm_number": 537,
+    "prefix": "Er.",
+    "name": "Hari Har Sharan",
+    "batch_year": 1983,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "hhsharan@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "hhshakya123@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "lm_number": 264,
+    "prefix": "Er.",
+    "name": "K. N. Goyal",
+    "batch_year": 1983,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "kango2in@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "lm_number": 273,
+    "prefix": "Er.",
+    "name": "Mukul Kataria",
+    "batch_year": 1983,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mukulkataria@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "lm_number": 145,
+    "prefix": "Er.",
+    "name": "P. S. Misra",
+    "batch_year": 1983,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pratapmisra6@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 496,
+    "lm_number": 496,
+    "prefix": "Er.",
+    "name": "Pradeep Gupta",
+    "batch_year": 1983,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pradeep123gupta@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 597,
+    "lm_number": 597,
+    "prefix": "Er.",
+    "name": "Rajni Kant Varma",
+    "batch_year": 1983,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vrkant@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 564,
+    "lm_number": 564,
+    "prefix": "Er.",
+    "name": "S. S. Verma",
+    "batch_year": 1983,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ssverma.gda@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "lm_number": 284,
+    "prefix": "Er.",
+    "name": "Salil Kumar",
+    "batch_year": 1983,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "saleelin@yahoo.co.in"
+      }
+    ]
+  }
+]

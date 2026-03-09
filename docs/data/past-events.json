@@ -1,0 +1,332 @@
+[
+  {
+    "id": "family-csoi-21-feb-26",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2026-02-21",
+    "location": "CSOI",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=9",
+    "gallery_link": "https://photos.app.goo.gl/XGegwYCaxXjuBDRG8"
+  },
+  {
+    "id": "indv-powergrid-gurgaon-26-jul-25",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2025-07-26",
+    "location": "Powergrid Gurgaon",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=10",
+    "gallery_link": "https://photos.app.goo.gl/wrP1wZ4pV5Hjw9Zn9"
+  },
+  {
+    "id": "family-csoi-25-feb-24",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2024-02-25",
+    "location": "CSOI",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=11",
+    "gallery_link": "https://photos.app.goo.gl/NxyGkBTDu4FUtgiq5"
+  },
+  {
+    "id": "indv-powergrid-gurgaon-23-jul-23",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2023-07-23",
+    "location": "Powergrid Gurgaon",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=12",
+    "gallery_link": "https://photos.app.goo.gl/rDTFQEFLPCQSXzSM6"
+  },
+  {
+    "id": "family-csoi-29-jan-23",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2023-01-29",
+    "location": "CSOI",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=13",
+    "gallery_link": "https://photos.app.goo.gl/JCGJH2RWCAT2NfML9\t"
+  },
+  {
+    "id": "indv-csoi-15-oct-22",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2022-10-15",
+    "location": "CSOI",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=14",
+    "gallery_link": "https://photos.app.goo.gl/aQtZvu4xQZqK8TpL8\t"
+  },
+  {
+    "id": "indv-avi-07-nov-21",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2021-11-07",
+    "location": "AVI",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=15",
+    "gallery_link": "https://photos.app.goo.gl/MwWLtrNGsCnJm4EPA\t"
+  },
+  {
+    "id": "family-psoi-19-jan-20",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2020-01-19",
+    "location": "PSOI",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=16",
+    "gallery_link": "https://photos.app.goo.gl/9b76S2cK8vSwU9qd6"
+  },
+  {
+    "id": "indv-powergrid-gurgaon-14-apr-19",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2019-04-14",
+    "location": "Powergrid Gurgaon",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=17",
+    "gallery_link": "https://photos.app.goo.gl/RyYavnwSwxmg6ewu9"
+  },
+  {
+    "id": "family-noida-20-jan-19",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2019-01-20",
+    "location": "Noida",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=18",
+    "gallery_link": "https://photos.app.goo.gl/iZdwJgwbSrDAGwaX7"
+  },
+  {
+    "id": "family-aai-21-jan-18",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2018-01-21",
+    "location": "AAI",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=19",
+    "gallery_link": "https://photos.app.goo.gl/H4NYdgvsMXWJEnkq2"
+  },
+  {
+    "id": "indv-csoi-16-sep-17",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2017-09-16",
+    "location": "CSOI",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=20",
+    "gallery_link": "https://photos.app.goo.gl/FtXzSerwjrCEmEBt2"
+  },
+  {
+    "id": "family-aai-15-jan-17",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2017-01-15",
+    "location": "AAI",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=21",
+    "gallery_link": "https://goo.gl/photos/PuBrxXYh15GT8NzC7"
+  },
+  {
+    "id": "indv-aai-16-jul-16",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2016-07-16",
+    "location": "AAI",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=22",
+    "gallery_link": "https://goo.gl/photos/JT84TSmvRAtQnA4FA"
+  },
+  {
+    "id": "family-aai-10-jan-16",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2016-01-10",
+    "location": "AAI",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=23",
+    "gallery_link": "https://goo.gl/photos/rxFL731sxzsL2Vwj8"
+  },
+  {
+    "id": "indv-psoi-delhi-13-jun-15",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2015-06-13",
+    "location": "PSOI Delhi",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=24",
+    "gallery_link": "https://goo.gl/photos/UYZZt434CLMKR8DV8"
+  },
+  {
+    "id": "family-aai-delhi-23-nov-14",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2014-11-23",
+    "location": "AAI Delhi",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=25",
+    "gallery_link": "https://goo.gl/photos/vKBoC2TxQ6j8mAY16"
+  },
+  {
+    "id": "indv-aai-delhi-28-jun-14",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2014-06-28",
+    "location": "AAI Delhi",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=26",
+    "gallery_link": "https://goo.gl/photos/CzqmPrVVeE7vhU8c8"
+  },
+  {
+    "id": "indv-aai-delhi-19-oct-13",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2013-10-19",
+    "location": "AAI Delhi",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=27",
+    "gallery_link": "https://goo.gl/photos/PyaEsbMXS4e2KoWr8"
+  },
+  {
+    "id": "family-aai-delhi-20-jan-13",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2013-01-20",
+    "location": "AAI Delhi",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=28",
+    "gallery_link": "https://goo.gl/photos/VmqHnMj4JCwwBDmK6"
+  },
+  {
+    "id": "indv-aai-delhi-30-sep-12",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2012-09-30",
+    "location": "AAI Delhi",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=29",
+    "gallery_link": "https://plus.google.com/photos/110925366226221469081/albums/5794377238665032673"
+  },
+  {
+    "id": "family-aai-delhi-18-dec-11",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2011-12-18",
+    "location": "AAI Delhi",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=30",
+    "gallery_link": "https://goo.gl/photos/9enAtb8S3m3z9NmP7"
+  },
+  {
+    "id": "indv-powergrid-gurgaon-27-aug-11",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2011-08-27",
+    "location": "Powergrid Gurgaon",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=31",
+    "gallery_link": "https://goo.gl/photos/gBsAbHrywSVnoRkx6"
+  },
+  {
+    "id": "individual-csoi-18-sep-10",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2010-09-18",
+    "location": "CSOI",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=32",
+    "gallery_link": "https://goo.gl/photos/DZXvJYNScdqujC3U7"
+  },
+  {
+    "id": "individual-csoi-24-apr-10",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2010-04-24",
+    "location": "CSOI",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=33",
+    "gallery_link": "https://goo.gl/photos/GxnWqttMHHZCzKHG8"
+  },
+  {
+    "id": "family-csoi-22-nov-09",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2009-11-22",
+    "location": "CSOI",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=34",
+    "gallery_link": "https://goo.gl/photos/QHJzeZ4Cgymf4hN2A"
+  },
+  {
+    "id": "individual-csoi-07-feb-09",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2009-02-07",
+    "location": "CSOI",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=35",
+    "gallery_link": "https://goo.gl/photos/WpPjAPnNh8t7gLoP8"
+  },
+  {
+    "id": "individual-csoi-21-jun-08",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2008-06-21",
+    "location": "CSOI",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=36",
+    "gallery_link": "https://goo.gl/photos/ure6w8m9smZy4r2U8"
+  },
+  {
+    "id": "family-csoi-27-jan-08",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2008-01-27",
+    "location": "CSOI",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=37",
+    "gallery_link": "https://goo.gl/photos/e71WL13ez4SVfjtB6"
+  },
+  {
+    "id": "individual-csoi-08-dec-07",
+    "title": "Individual Alumni Meet",
+    "event_type": "individual",
+    "date": "2007-12-08",
+    "location": "CSOI",
+    "description": "Networking meetup for alumni members in Delhi NCR.",
+    "image": "https://picsum.photos/800/600?random=38",
+    "gallery_link": "https://goo.gl/photos/7jZU4ebYg8DhLrPA7"
+  },
+  {
+    "id": "family-delite-faridabad-21-may-05",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2005-05-21",
+    "location": "Delite Faridabad",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "https://picsum.photos/800/600?random=39",
+    "gallery_link": "https://goo.gl/photos/U43FUQF5S69DG42t7"
+  },
+  {
+    "id": "family-delhi-11-may-04",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2004-05-11",
+    "location": "Delhi",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "/family-delhi-11-may-04.jpg",
+    "gallery_link": "https://goo.gl/photos/B18fGCRCxf2yVsXD7"
+  },
+  {
+    "id": "family-delite-faridabad-07-may-03",
+    "title": "Annual Family Get-Together",
+    "event_type": "family",
+    "date": "2003-05-07",
+    "location": "Delite Faridabad",
+    "description": "Annual family reunion of MNNIT alumni in the NCR chapter.",
+    "image": "/family-delite-faridabad-07-may-03.jpg",
+    "gallery_link": "https://goo.gl/photos/R4o8k7yJvsfVkRHW8"
+  }
+]

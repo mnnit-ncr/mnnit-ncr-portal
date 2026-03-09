@@ -1,0 +1,111 @@
+{
+  "leadership": {
+    "patron": {
+      "name": "Er. Anil Uppal",
+      "batch": "74-M",
+      "email": "anil.uppal03@gmail.com"
+    },
+    "president": {
+      "name": "Er. M. P. Arya",
+      "batch": "75-M",
+      "email": "mp.arya06@gmail.com",
+      "phone": "9650291516"
+    },
+    "generalSecretary": {
+      "name": "Er. Naresh Kumar Gupta",
+      "batch": "95-EC",
+      "email": "nareshg007@yahoo.com",
+      "phone": "9818998898"
+    },
+    "treasurer": {
+      "name": "Er. Pradeep Agarwal",
+      "batch": "79-M",
+      "email": "pradeepa03@gmail.com",
+      "phone": "8588862901"
+    }
+  },
+
+  "executiveCommittee": [
+    {
+      "name": "Er. C. S. Bhojwani",
+      "batch": "67-M",
+      "phone": "9810064842",
+      "email": "chandru_bhojwani@hotmail.com"
+    },
+    {
+      "name": "Er. Adarsh Bhasin",
+      "batch": "70-M",
+      "phone": "9818402801",
+      "email": "adarsh.bhasin@gmail.com"
+    },
+    {
+      "name": "Er. S. L. Gupta",
+      "batch": "70-M",
+      "phone": "9811913870",
+      "email": "sundergupta627@gmail.com"
+    },
+    {
+      "name": "Er. A. K. Jain",
+      "batch": "70-M",
+      "phone": "9811061949",
+      "email": "ajain2909@yahoo.co.in"
+    },
+    {
+      "name": "Er. S. P. Arora",
+      "batch": "73-E",
+      "phone": "9810080350",
+      "email": "shashi.arora25@gmail.com"
+    },
+    {
+      "name": "Er. Ramesh Kumar Thakur",
+      "batch": "75-M",
+      "phone": "9871291947",
+      "email": "thakur.rameshkumar@gmail.com"
+    },
+    {
+      "name": "Er. Anubha Goyal",
+      "batch": "87-MCA",
+      "phone": "9810705227",
+      "email": "goyal.anubha@gmail.com"
+    }
+  ],
+
+  "workingCommittee": [
+    {
+      "name": "Er. Anupam Verma",
+      "batch": "88-C",
+      "phone": "9810372575",
+      "email": "averma_aai@yahoo.co.in"
+    },
+    {
+      "name": "Er. Mukesh Kumar Tiwari",
+      "batch": "91-E",
+      "phone": "9711226339",
+      "email": "mktcmgail@gmail.com"
+    },
+    {
+      "name": "Er. Gunjan Sehgal Bhatia",
+      "batch": "94-EC",
+      "phone": "9810115538",
+      "email": "gunjanb72@gmail.com"
+    },
+    {
+      "name": "Er. Anuj Kumar",
+      "batch": "2007-M",
+      "phone": "9760657947",
+      "email": "anujnek@gmail.com"
+    },
+    {
+      "name": "Er. Arun K Chaudhary",
+      "batch": "2007-E",
+      "phone": "8700610764",
+      "email": "mnnit.arun@gmail.com"
+    },
+    {
+      "name": "Er. Hemant Kumar",
+      "batch": "2017-E",
+      "phone": "7225001745",
+      "email": "hemant.mnnit426@gmail.com"
+    }
+  ]
+}

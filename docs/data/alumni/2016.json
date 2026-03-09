@@ -1,0 +1,42 @@
+[
+  {
+    "id": 583,
+    "lm_number": 583,
+    "prefix": "Er.",
+    "name": "Rahul Gupta",
+    "batch_year": 2016,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rahul.mnnit1007@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 517,
+    "lm_number": 517,
+    "prefix": "Er.",
+    "name": "Ravi Shankar",
+    "batch_year": 2016,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ravishankarkumar@live.com"
+      }
+    ]
+  }
+]

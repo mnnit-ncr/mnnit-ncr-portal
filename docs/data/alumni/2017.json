@@ -1,0 +1,22 @@
+[
+  {
+    "id": 586,
+    "lm_number": 586,
+    "prefix": "Er.",
+    "name": "Hemant Kumar",
+    "batch_year": 2017,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "hemant.mnnit426@gmail.com"
+      }
+    ]
+  }
+]

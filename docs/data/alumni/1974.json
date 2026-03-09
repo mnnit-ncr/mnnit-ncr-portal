@@ -1,0 +1,207 @@
+[
+  {
+    "id": 315,
+    "lm_number": 315,
+    "prefix": "Dr.",
+    "name": "Raj Senani",
+    "batch_year": 1974,
+    "branch": "Electrical (M.E.)",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dr_senani@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "lm_number": 1,
+    "prefix": "Er.",
+    "name": "A. K. Uppal",
+    "batch_year": 1974,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anil.uppal03@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 488,
+    "lm_number": 488,
+    "prefix": "Er.",
+    "name": "J. P. Tiwari",
+    "batch_year": 1974,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "jpt1952@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "lm_number": 96,
+    "prefix": "Er.",
+    "name": "L. S. Pal",
+    "batch_year": 1974,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 179,
+    "lm_number": 179,
+    "prefix": "Er.",
+    "name": "Md. Jawaid Akram",
+    "batch_year": 1974,
+    "branch": "",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 470,
+    "lm_number": 470,
+    "prefix": "Er.",
+    "name": "N. D. Sharma",
+    "batch_year": 1974,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ndsharmas@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "lm_number": 105,
+    "prefix": "Er.",
+    "name": "N. S. Chaudhary",
+    "batch_year": 1974,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ns5219@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 581,
+    "lm_number": 581,
+    "prefix": "Er.",
+    "name": "Naresh Bansal",
+    "batch_year": 1974,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ncbansal2006@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "lm_number": 78,
+    "prefix": "Er.",
+    "name": "Pradeep Prakash Singhal",
+    "batch_year": 1974,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ppsinghal@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 570,
+    "lm_number": 570,
+    "prefix": "Er.",
+    "name": "Virendra Kumar Govil",
+    "batch_year": 1974,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "virendragovil@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "lm_number": 138,
+    "prefix": "Late",
+    "name": "Er. Sanjiv Mital",
+    "batch_year": 1974,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

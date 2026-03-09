@@ -1,0 +1,22 @@
+[
+  {
+    "id": 478,
+    "lm_number": 478,
+    "prefix": "Er.",
+    "name": "Amar Kumar Garg",
+    "batch_year": 2012,
+    "branch": "IT",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "amar2020agarwal@gmail.com"
+      }
+    ]
+  }
+]

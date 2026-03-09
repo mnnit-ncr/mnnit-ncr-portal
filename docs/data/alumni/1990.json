@@ -1,0 +1,185 @@
+[
+  {
+    "id": 429,
+    "lm_number": 429,
+    "prefix": "Er.",
+    "name": "Amit Singhal",
+    "batch_year": 1990,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "amitsinghal.be@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 557,
+    "lm_number": 557,
+    "prefix": "Er.",
+    "name": "Anup Khandelwal",
+    "batch_year": 1990,
+    "branch": "Computer Applications",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "contact_anupk@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "lm_number": 258,
+    "prefix": "Er.",
+    "name": "Aseem Bansal",
+    "batch_year": 1990,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "aseembansal42@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "lm_number": 107,
+    "prefix": "Er.",
+    "name": "Krishna N. Basudevan",
+    "batch_year": 1990,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 569,
+    "lm_number": 569,
+    "prefix": "Er.",
+    "name": "Rajesh Kumar",
+    "batch_year": 1990,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajeshkumarits92@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "gmtelnoida@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 338,
+    "lm_number": 338,
+    "prefix": "Er.",
+    "name": "Rajesh Singh",
+    "batch_year": 1990,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajesh3011@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "rajesh@bharatpetroleum.in"
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "lm_number": 257,
+    "prefix": "Er.",
+    "name": "Rupendra Bhatnagar",
+    "batch_year": 1990,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rupendrabhatnagar@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "lm_number": 253,
+    "prefix": "Er.",
+    "name": "Sandeep Kumar Atreya",
+    "batch_year": 1990,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sandeepatreya@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "lm_number": 418,
+    "prefix": "Er.",
+    "name": "Vivek Srivastava",
+    "batch_year": 1990,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shalivivek21@gmail.com"
+      }
+    ]
+  }
+]

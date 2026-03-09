@@ -1,0 +1,347 @@
+[
+  {
+    "id": 276,
+    "lm_number": 276,
+    "prefix": "Dr.",
+    "name": "Ram Varma",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "drramvarma@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "ram.dir@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 595,
+    "lm_number": 595,
+    "prefix": "Er.",
+    "name": "Dilip Kr. Sinha",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dilipkumarsinha1@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "lm_number": 309,
+    "prefix": "Er.",
+    "name": "Indresh Bhargava",
+    "batch_year": 1975,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "indbhargava@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "lm_number": 9,
+    "prefix": "Er.",
+    "name": "M. P. Arya",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 430,
+    "lm_number": 430,
+    "prefix": "Er.",
+    "name": "Manoj Kumar",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mk52@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "lm_number": 415,
+    "prefix": "Er.",
+    "name": "Mukesh Sinha",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sinha.mukesh.delhi@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "mukesh.sinha@eil.co.in"
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "lm_number": 129,
+    "prefix": "Er.",
+    "name": "Naresh Chand Garg",
+    "batch_year": 1975,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 192,
+    "lm_number": 192,
+    "prefix": "Er.",
+    "name": "P. C. Joshi",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "prujosi@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "prujosi@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "lm_number": 126,
+    "prefix": "Er.",
+    "name": "Rajeev Mehrotra",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mehrotra.rs@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "lm_number": 399,
+    "prefix": "Er.",
+    "name": "Rajeev Mittal",
+    "batch_year": 1975,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajeev@tushtech.com"
+      },
+      {
+        "type": "personal",
+        "email": "rajeevmittal790@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "lm_number": 10,
+    "prefix": "Er.",
+    "name": "Ramesh Kumar Thakur",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "thakur.rameshkumar@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "lm_number": 97,
+    "prefix": "Er.",
+    "name": "Shiv Kumar Sahu",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sahu_1953@rediffmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "sahukumar749@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "lm_number": 11,
+    "prefix": "Er.",
+    "name": "Shyam Sunder Mehra",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shyammehra11@rediffmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "mehra2shyam@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "lm_number": 12,
+    "prefix": "Er.",
+    "name": "Sohan Lal Nagpal",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "nutechengineers_05@yahoo.co.in"
+      },
+      {
+        "type": "personal",
+        "email": "slnagpal@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "slnagpal98@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "lm_number": 389,
+    "prefix": "Er.",
+    "name": "Vinod Kumar Patel",
+    "batch_year": 1975,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vkumar@anmolsolutions.in"
+      },
+      {
+        "type": "personal",
+        "email": "anmolp2@airtelmail.in"
+      },
+      {
+        "type": "personal",
+        "email": "vk@ipma.in"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "lm_number": 112,
+    "prefix": "Late",
+    "name": "Er. A. P. Srivastava",
+    "batch_year": 1975,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

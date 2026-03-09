@@ -1,0 +1,202 @@
+[
+  {
+    "id": 291,
+    "lm_number": 291,
+    "prefix": "Er.",
+    "name": "Ashok Kumar Joshi",
+    "batch_year": 1999,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ashokjoshi76@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "lm_number": 293,
+    "prefix": "Er.",
+    "name": "Atul Mishra",
+    "batch_year": 1999,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "atul_mishra_99@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 601,
+    "lm_number": 601,
+    "prefix": "Er.",
+    "name": "Bhopal Singh",
+    "batch_year": 1999,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "bhopal.singh2004@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "lm_number": 227,
+    "prefix": "Er.",
+    "name": "Jitendra Khandelwal",
+    "batch_year": 1999,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "j_khandelwal_2000@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "lm_number": 278,
+    "prefix": "Er.",
+    "name": "Pradeep Kumar Saluja",
+    "batch_year": 1999,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "salujapradeep@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 195,
+    "lm_number": 195,
+    "prefix": "Er.",
+    "name": "Ravindra Yadav",
+    "batch_year": 1999,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rycpwd@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 477,
+    "lm_number": 477,
+    "prefix": "Er.",
+    "name": "Sandeep Gupta",
+    "batch_year": 1999,
+    "branch": "Production Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sandeepbgupta@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "lm_number": 226,
+    "prefix": "Er.",
+    "name": "Sanjeev Kumar Mudgal",
+    "batch_year": 1999,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sandce04@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "lm_number": 282,
+    "prefix": "Er.",
+    "name": "Sudhir Kumar",
+    "batch_year": 1999,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sudhir_ntl@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "lm_number": 260,
+    "prefix": "Er.",
+    "name": "Vineet Kumar Singh",
+    "batch_year": 1999,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "singhvinitk@yahoo.com"
+      }
+    ]
+  }
+]

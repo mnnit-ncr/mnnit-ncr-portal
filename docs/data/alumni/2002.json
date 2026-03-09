@@ -1,0 +1,97 @@
+[
+  {
+    "id": 297,
+    "lm_number": 297,
+    "prefix": "Er.",
+    "name": "Ashish Sinha",
+    "batch_year": 2002,
+    "branch": "MMS",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 299,
+    "lm_number": 299,
+    "prefix": "Er.",
+    "name": "Manoj Solanki",
+    "batch_year": 2002,
+    "branch": "MMS",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "manojsolanki79@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 191,
+    "lm_number": 191,
+    "prefix": "Er.",
+    "name": "Ramesh Kumar Rathour",
+    "batch_year": 2002,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ramesh@adobe.com"
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "lm_number": 381,
+    "prefix": "Er.",
+    "name": "Sanjeev Kumar",
+    "batch_year": 2002,
+    "branch": "MMS",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sanjeev.mnrec@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 221,
+    "lm_number": 221,
+    "prefix": "Er.",
+    "name": "Shardul Singh",
+    "batch_year": 2002,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "singh.shardul@gmail.com"
+      }
+    ]
+  }
+]

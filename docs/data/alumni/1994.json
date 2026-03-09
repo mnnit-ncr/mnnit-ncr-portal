@@ -1,0 +1,239 @@
+[
+  {
+    "id": 383,
+    "lm_number": 383,
+    "prefix": "Er.",
+    "name": "Ajay Kumar Porwal",
+    "batch_year": 1994,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "akporwal@gail.co.in"
+      },
+      {
+        "type": "personal",
+        "email": "porwalak@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 480,
+    "lm_number": 480,
+    "prefix": "Er.",
+    "name": "Anoop Kant Dixit",
+    "batch_year": 1994,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anoopkant.dixit@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 344,
+    "lm_number": 344,
+    "prefix": "Er.",
+    "name": "Anuj Bhargava",
+    "batch_year": 1994,
+    "branch": "Production Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anuj.anujbhargava@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "lm_number": 433,
+    "prefix": "Er.",
+    "name": "Anurag Kumar",
+    "batch_year": 1994,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anurag.kumar@yahoo.in"
+      },
+      {
+        "type": "personal",
+        "email": "aquarian.anurag@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "lm_number": 256,
+    "prefix": "Er.",
+    "name": "Dhananjay Singh",
+    "batch_year": 1994,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dsingh@frigoglass.com"
+      },
+      {
+        "type": "personal",
+        "email": "dsingh08@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 560,
+    "lm_number": 560,
+    "prefix": "Er.",
+    "name": "Gunjan Sehgal Bhatia",
+    "batch_year": 1994,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "gunjanb72@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "lm_number": 414,
+    "prefix": "Er.",
+    "name": "Jay Motwani",
+    "batch_year": 1994,
+    "branch": "Production Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "jay@jaymotwani.com"
+      }
+    ]
+  },
+  {
+    "id": 481,
+    "lm_number": 481,
+    "prefix": "Er.",
+    "name": "Manish Kumar Agarwal",
+    "batch_year": 1994,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mk_agg@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 335,
+    "lm_number": 335,
+    "prefix": "Er.",
+    "name": "Navneet Jhamb",
+    "batch_year": 1994,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "njhamb@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "lm_number": 110,
+    "prefix": "Er.",
+    "name": "Sanjay Gupta",
+    "batch_year": 1994,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 124,
+    "lm_number": 124,
+    "prefix": "Er.",
+    "name": "Tarun Gupta",
+    "batch_year": 1994,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 252,
+    "lm_number": 252,
+    "prefix": "Late",
+    "name": "Er. Rakesh Kumar Sharma",
+    "batch_year": 1994,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

@@ -1,0 +1,255 @@
+[
+  {
+    "id": 93,
+    "lm_number": 93,
+    "prefix": "Er.",
+    "name": "Ajab Singh",
+    "batch_year": 2000,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 451,
+    "lm_number": 451,
+    "prefix": "Er.",
+    "name": "Amit Dogra",
+    "batch_year": 2000,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "amitdogra78@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 473,
+    "lm_number": 473,
+    "prefix": "Er.",
+    "name": "Avanish Ojha",
+    "batch_year": 2000,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "avanishk2000@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "avanishkojha@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 450,
+    "lm_number": 450,
+    "prefix": "Er.",
+    "name": "Jaspreet Singh",
+    "batch_year": 2000,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "js4677@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 445,
+    "lm_number": 445,
+    "prefix": "Er.",
+    "name": "Jyoti Prasad Bhatt",
+    "batch_year": 2000,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "jp_bhatt@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "jpbhatt@impactqa.com"
+      }
+    ]
+  },
+  {
+    "id": 452,
+    "lm_number": 452,
+    "prefix": "Er.",
+    "name": "Manish Kumar",
+    "batch_year": 2000,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "manishkr11@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "lm_number": 91,
+    "prefix": "Er.",
+    "name": "Mohit Kapoor",
+    "batch_year": 2000,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 92,
+    "lm_number": 92,
+    "prefix": "Er.",
+    "name": "Navdeep Kumar Singh",
+    "batch_year": 2000,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 323,
+    "lm_number": 323,
+    "prefix": "Er.",
+    "name": "Sandeep Kumar Shukla",
+    "batch_year": 2000,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sandeep.shukla@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 533,
+    "lm_number": 533,
+    "prefix": "Er.",
+    "name": "Saurabh Rawat",
+    "batch_year": 2000,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "saurabh.rawat@in.panasonic.com"
+      }
+    ]
+  },
+  {
+    "id": 548,
+    "lm_number": 548,
+    "prefix": "Er.",
+    "name": "Swadesh Rai",
+    "batch_year": 2000,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "swadeshraidso@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 217,
+    "lm_number": 217,
+    "prefix": "Er.",
+    "name": "Vineet Dwivedi",
+    "batch_year": 2000,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "accessvineet@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "lm_number": 283,
+    "prefix": "Er.",
+    "name": "Vivek Gupta",
+    "batch_year": 2000,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vivekz2000@yahoo.com"
+      }
+    ]
+  }
+]

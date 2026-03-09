@@ -1,0 +1,22 @@
+[
+  {
+    "id": 558,
+    "lm_number": 558,
+    "prefix": "Er.",
+    "name": "Neeraj Kumar Gautam",
+    "batch_year": 2013,
+    "branch": "VLSI (M.E.)",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "neerajmnnit11@gmail.com"
+      }
+    ]
+  }
+]

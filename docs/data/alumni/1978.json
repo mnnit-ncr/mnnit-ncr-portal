@@ -1,0 +1,131 @@
+[
+  {
+    "id": 380,
+    "lm_number": 380,
+    "prefix": "Er.",
+    "name": "Anil Kumar Dhama",
+    "batch_year": 1978,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anilkumardhama@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 491,
+    "lm_number": 491,
+    "prefix": "Er.",
+    "name": "Atul Kumar Jain",
+    "batch_year": 1978,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "atulsctltd@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "1006at@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "lm_number": 15,
+    "prefix": "Er.",
+    "name": "G. Das Sangtani",
+    "batch_year": 1978,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 165,
+    "lm_number": 165,
+    "prefix": "Er.",
+    "name": "J. S. Rathi",
+    "batch_year": 1978,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 181,
+    "lm_number": 181,
+    "prefix": "Er.",
+    "name": "Kuljit Singh",
+    "batch_year": 1978,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 373,
+    "lm_number": 373,
+    "prefix": "Er.",
+    "name": "Sudhir Kumar Sharma",
+    "batch_year": 1978,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sudhirksharma15@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "lm_number": 244,
+    "prefix": "Er.",
+    "name": "V. K. M. Tripathi",
+    "batch_year": 1978,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vkmtripathi@yahoo.com"
+      }
+    ]
+  }
+]

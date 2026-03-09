@@ -1,0 +1,417 @@
+[
+  {
+    "id": 143,
+    "lm_number": 143,
+    "prefix": "Dr.",
+    "name": "Rajiv Yadav",
+    "batch_year": 1976,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajiv32@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "lm_number": 121,
+    "prefix": "Er.",
+    "name": "Anil Kumar Ghai",
+    "batch_year": 1976,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ghai_mohit@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 178,
+    "lm_number": 178,
+    "prefix": "Er.",
+    "name": "B. M. Singh",
+    "batch_year": 1976,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 277,
+    "lm_number": 277,
+    "prefix": "Er.",
+    "name": "Bal Krishan",
+    "batch_year": 1976,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "krishan515@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 442,
+    "lm_number": 442,
+    "prefix": "Er.",
+    "name": "Dayanand Prasad",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dayanand1954@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 500,
+    "lm_number": 500,
+    "prefix": "Er.",
+    "name": "Dinesh Kumar Singh",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dksingh53@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "lm_number": 243,
+    "prefix": "Er.",
+    "name": "H. C. Raturi",
+    "batch_year": 1976,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "hinaraturi@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "lm_number": 123,
+    "prefix": "Er.",
+    "name": "K. B. Sharma",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sharmakb@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "lm_number": 423,
+    "prefix": "Er.",
+    "name": "M. S. Gusain",
+    "batch_year": 1976,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ms.gusain52@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "ms.gusain@rp-sg.in"
+      }
+    ]
+  },
+  {
+    "id": 449,
+    "lm_number": 449,
+    "prefix": "Er.",
+    "name": "Madan Mohan Soni",
+    "batch_year": 1976,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "maddi_soni@yahoo.co.in"
+      },
+      {
+        "type": "personal",
+        "email": "mmsoni01@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 164,
+    "lm_number": 164,
+    "prefix": "Er.",
+    "name": "N. K. Bhandari",
+    "batch_year": 1976,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "n_k_bhandari@rediffmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "narendrakbhandari@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "lm_number": 384,
+    "prefix": "Er.",
+    "name": "Neeraj Sharma",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "neeraj2941@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "lm_number": 66,
+    "prefix": "Er.",
+    "name": "R. K. Sharma",
+    "batch_year": 1976,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 392,
+    "lm_number": 392,
+    "prefix": "Er.",
+    "name": "Ravi Mohan Saxena",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "saxena_rm@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 466,
+    "lm_number": 466,
+    "prefix": "Er.",
+    "name": "S. K. Arora",
+    "batch_year": 1976,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "arora_sk47@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "lm_number": 67,
+    "prefix": "Er.",
+    "name": "S. K. Gupta",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 435,
+    "lm_number": 435,
+    "prefix": "Er.",
+    "name": "Sanjeev Kr. Sharma",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sanjeev0303@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "sksharma.oisd@nic.in"
+      }
+    ]
+  },
+  {
+    "id": 448,
+    "lm_number": 448,
+    "prefix": "Er.",
+    "name": "Sukhen Kumar Singh",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 404,
+    "lm_number": 404,
+    "prefix": "Er.",
+    "name": "U. L. Dohare",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 447,
+    "lm_number": 447,
+    "prefix": "Er.",
+    "name": "U. P. Sinha",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sinhaup@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 439,
+    "lm_number": 439,
+    "prefix": "Er.",
+    "name": "Upendra Kr. Sharma",
+    "batch_year": 1976,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "uksharma@hotmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "uksharmag@gmail.com"
+      }
+    ]
+  }
+]

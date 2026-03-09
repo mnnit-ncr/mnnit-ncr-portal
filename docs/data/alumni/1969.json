@@ -1,0 +1,107 @@
+[
+  {
+    "id": 476,
+    "lm_number": 476,
+    "prefix": "Er.",
+    "name": "Darshan Lal",
+    "batch_year": 1969,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "darshanikunj@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "lm_number": 104,
+    "prefix": "Er.",
+    "name": "Ram Dayal Jain",
+    "batch_year": 1969,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 363,
+    "lm_number": 363,
+    "prefix": "Er.",
+    "name": "S. P. Singhal",
+    "batch_year": 1969,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "spsinghal76@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 534,
+    "lm_number": 534,
+    "prefix": "Er.",
+    "name": "Shashi Bansal",
+    "batch_year": 1969,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shashi_bansal@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "lm_number": 118,
+    "prefix": "Late",
+    "name": "Er. Dharam Pal Puri",
+    "batch_year": 1969,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 49,
+    "lm_number": 49,
+    "prefix": "Late",
+    "name": "Er. N. P. Singh",
+    "batch_year": 1969,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

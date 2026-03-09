@@ -1,0 +1,61 @@
+[
+  {
+    "id": 367,
+    "lm_number": 367,
+    "prefix": "Er.",
+    "name": "Amit Kumar Gupta",
+    "batch_year": 2004,
+    "branch": "Computer Applications",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "amitgupta.8@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "lm_number": 241,
+    "prefix": "Er.",
+    "name": "Vineet Singh",
+    "batch_year": 2004,
+    "branch": "IT",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 242,
+    "lm_number": 242,
+    "prefix": "Er.",
+    "name": "Yaduvendra Singh",
+    "batch_year": 2004,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "a1yadu@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "yadu@arikavtextiles.com"
+      }
+    ]
+  }
+]

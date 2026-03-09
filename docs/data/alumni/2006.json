@@ -1,0 +1,126 @@
+[
+  {
+    "id": 318,
+    "lm_number": 318,
+    "prefix": "Er.",
+    "name": "Ashish Singh",
+    "batch_year": 2006,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ashishsingh.kol@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 524,
+    "lm_number": 524,
+    "prefix": "Er.",
+    "name": "Bhupendra Kumar",
+    "batch_year": 2006,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "bhupendramcd84@yahoo.in"
+      }
+    ]
+  },
+  {
+    "id": 459,
+    "lm_number": 459,
+    "prefix": "Er.",
+    "name": "Ghanashyam Naik",
+    "batch_year": 2006,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ghanashyam250@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 319,
+    "lm_number": 319,
+    "prefix": "Er.",
+    "name": "Mohit Bansal",
+    "batch_year": 2006,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mohitbansal11@yahoo.co.in"
+      },
+      {
+        "type": "personal",
+        "email": "11mohitbansal@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "lm_number": 224,
+    "prefix": "Er.",
+    "name": "Swetabh Singh",
+    "batch_year": 2006,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "swetabh2002@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 556,
+    "lm_number": 556,
+    "prefix": "Er.",
+    "name": "Vikas Ratn",
+    "batch_year": 2006,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vikasratn@gmail.com"
+      }
+    ]
+  }
+]

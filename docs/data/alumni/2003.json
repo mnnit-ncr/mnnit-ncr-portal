@@ -1,0 +1,97 @@
+[
+  {
+    "id": 201,
+    "lm_number": 201,
+    "prefix": "Er.",
+    "name": "Gautam  Gupta",
+    "batch_year": 2003,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 347,
+    "lm_number": 347,
+    "prefix": "Er.",
+    "name": "Harsh Agarwal",
+    "batch_year": 2003,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "eng_harsh@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 346,
+    "lm_number": 346,
+    "prefix": "Er.",
+    "name": "Sachin Agarwal",
+    "batch_year": 2003,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "agarwal.sachin@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "lm_number": 298,
+    "prefix": "Er.",
+    "name": "Smriti Trivedi",
+    "batch_year": 2003,
+    "branch": "MMS",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "smriti_trivedi@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 540,
+    "lm_number": 540,
+    "prefix": "Er.",
+    "name": "Vikram Gupta",
+    "batch_year": 2003,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vikram_mnrec@yahoo.co.in"
+      }
+    ]
+  }
+]

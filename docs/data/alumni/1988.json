@@ -1,0 +1,351 @@
+[
+  {
+    "id": 406,
+    "lm_number": 406,
+    "prefix": "Er.",
+    "name": "Akhilesh Kumar Tripathi",
+    "batch_year": 1988,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "aktripathi_2006@yahoo.co.in"
+      },
+      {
+        "type": "personal",
+        "email": "tripathi.akhilesh2000@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 590,
+    "lm_number": 590,
+    "prefix": "Er.",
+    "name": "Ameet Goel",
+    "batch_year": 1988,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ameet0121@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 210,
+    "lm_number": 210,
+    "prefix": "Er.",
+    "name": "Anil Kumar Kushwaha",
+    "batch_year": 1988,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "akkushwaha@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 197,
+    "lm_number": 197,
+    "prefix": "Er.",
+    "name": "Anupam Verma",
+    "batch_year": 1988,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "averma_aai@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 360,
+    "lm_number": 360,
+    "prefix": "Er.",
+    "name": "Anurag Shrivastava",
+    "batch_year": 1988,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anurag6699@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 211,
+    "lm_number": 211,
+    "prefix": "Er.",
+    "name": "Arun Kumar Singh",
+    "batch_year": 1988,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "arun_kr_singh@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 171,
+    "lm_number": 171,
+    "prefix": "Er.",
+    "name": "Avtar Mahajan",
+    "batch_year": 1988,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "avtar_mahajan@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 359,
+    "lm_number": 359,
+    "prefix": "Er.",
+    "name": "G. P. Singh",
+    "batch_year": 1988,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "gpsingh_hydro@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "lm_number": 108,
+    "prefix": "Er.",
+    "name": "Munish Agarwal",
+    "batch_year": 1988,
+    "branch": "Production Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "munishaggarwal54@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 440,
+    "lm_number": 440,
+    "prefix": "Er.",
+    "name": "Neeraj Jain",
+    "batch_year": 1988,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "neerajjain123@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 198,
+    "lm_number": 198,
+    "prefix": "Er.",
+    "name": "Neeraj Kumar Aggarwal",
+    "batch_year": 1988,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "neeraj_its@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 213,
+    "lm_number": 213,
+    "prefix": "Er.",
+    "name": "Neeraj Mehrotra",
+    "batch_year": 1988,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "neerajmehrotra@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 492,
+    "lm_number": 492,
+    "prefix": "Er.",
+    "name": "Rajeev Rai",
+    "batch_year": 1988,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rairajeev@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 504,
+    "lm_number": 504,
+    "prefix": "Er.",
+    "name": "Rajvir Singh",
+    "batch_year": 1988,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 17,
+    "lm_number": 17,
+    "prefix": "Er.",
+    "name": "Rohit Rai",
+    "batch_year": 1988,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rohitrai@pacindia.net"
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "lm_number": 378,
+    "prefix": "Er.",
+    "name": "S. R. Mahto",
+    "batch_year": 1988,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "srmahto64@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 185,
+    "lm_number": 185,
+    "prefix": "Er.",
+    "name": "Sanjay Kr. Singhal",
+    "batch_year": 1988,
+    "branch": "",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 109,
+    "lm_number": 109,
+    "prefix": "Er.",
+    "name": "Sunil Kumar",
+    "batch_year": 1988,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

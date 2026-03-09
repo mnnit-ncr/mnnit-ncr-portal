@@ -1,0 +1,141 @@
+[
+  {
+    "id": 357,
+    "lm_number": 357,
+    "prefix": "Er.",
+    "name": "Ashok K. Kaul",
+    "batch_year": 1972,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ashokk_kaul@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 528,
+    "lm_number": 528,
+    "prefix": "Er.",
+    "name": "Gyan Anand",
+    "batch_year": 1972,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "gyangen@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "gyan_res@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "lm_number": 25,
+    "prefix": "Er.",
+    "name": "H. S. Saini",
+    "batch_year": 1972,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mtshss@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 576,
+    "lm_number": 576,
+    "prefix": "Er.",
+    "name": "Jai Singh Jatav",
+    "batch_year": 1972,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "jaisinghjatav@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "lm_number": 62,
+    "prefix": "Er.",
+    "name": "R. K. Garg",
+    "batch_year": 1972,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 577,
+    "lm_number": 577,
+    "prefix": "Er.",
+    "name": "R. P. Singhal",
+    "batch_year": 1972,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rpsinghal@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "lm_number": 63,
+    "prefix": "Er.",
+    "name": "Uma Shanker (Garg)",
+    "batch_year": 1972,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "uma.shanker@advancevalves.com"
+      }
+    ]
+  }
+]

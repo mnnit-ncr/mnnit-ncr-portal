@@ -1,0 +1,26 @@
+[
+  {
+    "id": 424,
+    "lm_number": 424,
+    "prefix": "Er.",
+    "name": "Apoorv Dhawan",
+    "batch_year": 2001,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "apdhdrdo@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "appu_d123@rediffmail.com"
+      }
+    ]
+  }
+]

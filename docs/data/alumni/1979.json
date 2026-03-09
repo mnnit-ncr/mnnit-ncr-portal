@@ -1,0 +1,646 @@
+[
+  {
+    "id": 402,
+    "lm_number": 402,
+    "prefix": "Capt.",
+    "name": "Deepak Shastri",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dss14@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 208,
+    "lm_number": 208,
+    "prefix": "Dr.",
+    "name": "Yasho Verdhan Verma",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "yasho.v.verma@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 175,
+    "lm_number": 175,
+    "prefix": "Er.",
+    "name": "A. K. Agrawal",
+    "batch_year": 1979,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "aka.bhel@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 166,
+    "lm_number": 166,
+    "prefix": "Er.",
+    "name": "Akhilesh Kumar Hajela",
+    "batch_year": 1979,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "akhajela@ntpc.co.in"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "lm_number": 294,
+    "prefix": "Er.",
+    "name": "Alok Kumar",
+    "batch_year": 1979,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "alokalokindia@rediffmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "alok.alokindia@gov.in"
+      }
+    ]
+  },
+  {
+    "id": 498,
+    "lm_number": 498,
+    "prefix": "Er.",
+    "name": "Anil Kumar Sharma",
+    "batch_year": 1979,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "chiefcane@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "anilsharma.ce@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 183,
+    "lm_number": 183,
+    "prefix": "Er.",
+    "name": "Ashok K Varma",
+    "batch_year": 1979,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ashok_alfa@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 353,
+    "lm_number": 353,
+    "prefix": "Er.",
+    "name": "Chandra Prakash Singh",
+    "batch_year": 1979,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "cpsinghg@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 497,
+    "lm_number": 497,
+    "prefix": "Er.",
+    "name": "Deepak Malik",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "deepak111255@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "lm_number": 421,
+    "prefix": "Er.",
+    "name": "Devendra Kumar Garg",
+    "batch_year": 1979,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "garg.devendra19@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "lm_number": 411,
+    "prefix": "Er.",
+    "name": "Jitander Singh Balhara",
+    "batch_year": 1979,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "balharajs@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "balhara@live.in"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "lm_number": 68,
+    "prefix": "Er.",
+    "name": "Mohan Lal Agarwal",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mohan@perfectgroup.in"
+      }
+    ]
+  },
+  {
+    "id": 499,
+    "lm_number": 499,
+    "prefix": "Er.",
+    "name": "Mukul Kumar Jain",
+    "batch_year": 1979,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mkjn1709@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 437,
+    "lm_number": 437,
+    "prefix": "Er.",
+    "name": "N. K. Singh",
+    "batch_year": 1979,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "nkspapt@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "lm_number": 85,
+    "prefix": "Er.",
+    "name": "Narendra Kumar Jain",
+    "batch_year": 1979,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "nkjaindelhi@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "lm_number": 150,
+    "prefix": "Er.",
+    "name": "Neenad Biswas",
+    "batch_year": 1979,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "biswasninad@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "lm_number": 139,
+    "prefix": "Er.",
+    "name": "Parvinder Singh",
+    "batch_year": 1979,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "spvr17@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "lm_number": 14,
+    "prefix": "Er.",
+    "name": "Pradeep Agarwal",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pradeepa03@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 322,
+    "lm_number": 322,
+    "prefix": "Er.",
+    "name": "Pradeep Kumar Garg",
+    "batch_year": 1979,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pkgarg.india@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 325,
+    "lm_number": 325,
+    "prefix": "Er.",
+    "name": "Pramod Kumar",
+    "batch_year": 1979,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pktyagi54@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 182,
+    "lm_number": 182,
+    "prefix": "Er.",
+    "name": "Rajiva Kumar",
+    "batch_year": 1979,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "kumar_rajiva@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 441,
+    "lm_number": 441,
+    "prefix": "Er.",
+    "name": "Ravinder Singh Gill",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ravinder.gill@castprofile.com"
+      }
+    ]
+  },
+  {
+    "id": 486,
+    "lm_number": 486,
+    "prefix": "Er.",
+    "name": "S. C. Sati",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "scsati@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "lm_number": 153,
+    "prefix": "Er.",
+    "name": "S. K. Jain",
+    "batch_year": 1979,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "skjain15758@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 516,
+    "lm_number": 516,
+    "prefix": "Er.",
+    "name": "Shashank Singhal",
+    "batch_year": 1979,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "amami.shashank@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "lm_number": 395,
+    "prefix": "Er.",
+    "name": "Shibu Ganguly",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shibuganguly@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "lm_number": 111,
+    "prefix": "Er.",
+    "name": "Subhash Chugh",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "polyengg@rediffmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "subhashchugh181@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "lm_number": 313,
+    "prefix": "Er.",
+    "name": "Sunil Kumar Bhambri",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "salvation5@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "lm_number": 396,
+    "prefix": "Er.",
+    "name": "Umesh Mishra",
+    "batch_year": 1979,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "u_c_mishra@yahoo.co.in"
+      },
+      {
+        "type": "personal",
+        "email": "umeshcmishra@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 594,
+    "lm_number": 594,
+    "prefix": "Er.",
+    "name": "Vinay Kumar",
+    "batch_year": 1979,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vinaykumar1957@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 522,
+    "lm_number": 522,
+    "prefix": "Er.",
+    "name": "Vinod Kansal",
+    "batch_year": 1979,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vinodkansal56@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "meetakansal@yahoo.com"
+      }
+    ]
+  }
+]

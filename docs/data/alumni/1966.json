@@ -1,0 +1,37 @@
+[
+  {
+    "id": 386,
+    "lm_number": 386,
+    "prefix": "Er.",
+    "name": "V. K. Chaudhri",
+    "batch_year": 1966,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vkchaudhri44@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "lm_number": 103,
+    "prefix": "Er.",
+    "name": "Virendra Pratap",
+    "batch_year": 1966,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

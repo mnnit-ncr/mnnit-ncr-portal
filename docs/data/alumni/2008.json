@@ -1,0 +1,62 @@
+[
+  {
+    "id": 562,
+    "lm_number": 562,
+    "prefix": "Er.",
+    "name": "Anil Kumar Singh",
+    "batch_year": 2008,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anil.ksingh001@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 436,
+    "lm_number": 436,
+    "prefix": "Er.",
+    "name": "Ankit Sharma",
+    "batch_year": 2008,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ankithere@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 592,
+    "lm_number": 592,
+    "prefix": "Er.",
+    "name": "Rajendra Jaipal",
+    "batch_year": 2008,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajjaipal@gmail.com"
+      }
+    ]
+  }
+]

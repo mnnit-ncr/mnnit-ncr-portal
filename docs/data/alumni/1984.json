@@ -1,0 +1,253 @@
+[
+  {
+    "id": 432,
+    "lm_number": 432,
+    "prefix": "Dr.",
+    "name": "Aswini Kumar Sharma",
+    "batch_year": 1984,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ashwinisharma62@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "ashwiniwin@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 316,
+    "lm_number": 316,
+    "prefix": "Dr.",
+    "name": "Shanti Swaroop Gupta",
+    "batch_year": 1984,
+    "branch": "Electrical (M.E.)",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ssgupta1@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 328,
+    "lm_number": 328,
+    "prefix": "Er.",
+    "name": "Amit Garg",
+    "batch_year": 1984,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "amitgarg2806@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "lm_number": 292,
+    "prefix": "Er.",
+    "name": "Arun Zutshi",
+    "batch_year": 1984,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "zutshiarun@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "lm_number": 249,
+    "prefix": "Er.",
+    "name": "Arvind Kumar Modi",
+    "batch_year": 1984,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dezign97@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "lm_number": 268,
+    "prefix": "Er.",
+    "name": "Ashok K Tiwari",
+    "batch_year": 1984,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "aktiwari63@rediffmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "ashoktiwari@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "ashok.k.tiwari@adityabirla.com"
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "lm_number": 377,
+    "prefix": "Er.",
+    "name": "Pankaj Bhatt",
+    "batch_year": 1984,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "bhattp@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 331,
+    "lm_number": 331,
+    "prefix": "Er.",
+    "name": "Ram Bahadur Verma",
+    "batch_year": 1984,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rbverma20@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "lm_number": 233,
+    "prefix": "Er.",
+    "name": "Sushil Kr. Aggarwal",
+    "batch_year": 1984,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "skaggarwal01@ntpc.co.in"
+      },
+      {
+        "type": "personal",
+        "email": "sushilkumara2001@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 572,
+    "lm_number": 572,
+    "prefix": "Er.",
+    "name": "Uma Shanker",
+    "batch_year": 1984,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "umashanker.alka@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 337,
+    "lm_number": 337,
+    "prefix": "Er.",
+    "name": "Veena Singhal",
+    "batch_year": 1984,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "eternalveena@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "lm_number": 237,
+    "prefix": "Er.",
+    "name": "Vineet Singhal",
+    "batch_year": 1984,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

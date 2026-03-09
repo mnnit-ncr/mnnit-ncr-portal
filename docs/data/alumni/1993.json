@@ -1,0 +1,150 @@
+[
+  {
+    "id": 246,
+    "lm_number": 246,
+    "prefix": "Er.",
+    "name": "Anupam Garg",
+    "batch_year": 1993,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anupam_garg@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 219,
+    "lm_number": 219,
+    "prefix": "Er.",
+    "name": "Bhudev Singh",
+    "batch_year": 1993,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "bhudevsingh@igl.co.in"
+      }
+    ]
+  },
+  {
+    "id": 220,
+    "lm_number": 220,
+    "prefix": "Er.",
+    "name": "Pramod Kumar",
+    "batch_year": 1993,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shristi_pra@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 471,
+    "lm_number": 471,
+    "prefix": "Er.",
+    "name": "Rajesh Prasad",
+    "batch_year": 1993,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajeshprasad70@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "lm_number": 247,
+    "prefix": "Er.",
+    "name": "Sandeep Agarwal",
+    "batch_year": 1993,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sandeep2570@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "sandeep.agarwal@emerson.com"
+      }
+    ]
+  },
+  {
+    "id": 340,
+    "lm_number": 340,
+    "prefix": "Er.",
+    "name": "Santosh Mathur",
+    "batch_year": 1993,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mathursantosh@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "smathur72@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 598,
+    "lm_number": 598,
+    "prefix": "Er.",
+    "name": "Sushovon Saha",
+    "batch_year": 1993,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sahasushovon@gmail.com"
+      }
+    ]
+  }
+]

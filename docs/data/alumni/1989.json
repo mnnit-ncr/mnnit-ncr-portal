@@ -1,0 +1,398 @@
+[
+  {
+    "id": 375,
+    "lm_number": 375,
+    "prefix": "Dr.",
+    "name": "Amitabh Saran",
+    "batch_year": 1989,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "amit_home2@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 351,
+    "lm_number": 351,
+    "prefix": "Er.",
+    "name": "Bhuwan C. Pandey",
+    "batch_year": 1989,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "bcpandey70@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "lm_number": 428,
+    "prefix": "Er.",
+    "name": "Bijan K Choudhury",
+    "batch_year": 1989,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "choudhury.bijan@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "lm_number": 302,
+    "prefix": "Er.",
+    "name": "Digonta Barua",
+    "batch_year": 1989,
+    "branch": "Production Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "digontab@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 354,
+    "lm_number": 354,
+    "prefix": "Er.",
+    "name": "Girish Chandra Pandey",
+    "batch_year": 1989,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "manikya98@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 209,
+    "lm_number": 209,
+    "prefix": "Er.",
+    "name": "Kiran Ajit Kujur",
+    "batch_year": 1989,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "kakgp@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "lm_number": 308,
+    "prefix": "Er.",
+    "name": "Mahesh Kumar",
+    "batch_year": 1989,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 223,
+    "lm_number": 223,
+    "prefix": "Er.",
+    "name": "Manoj Vajpayee",
+    "batch_year": 1989,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 303,
+    "lm_number": 303,
+    "prefix": "Er.",
+    "name": "Neeraj Pant",
+    "batch_year": 1989,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "neeraj_69@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 330,
+    "lm_number": 330,
+    "prefix": "Er.",
+    "name": "Pankaj Goel",
+    "batch_year": 1989,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pkgoel143@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 205,
+    "lm_number": 205,
+    "prefix": "Er.",
+    "name": "Peeyush Shukla",
+    "batch_year": 1989,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "peeyush_shukla@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 460,
+    "lm_number": 460,
+    "prefix": "Er.",
+    "name": "Prahlad Gupta",
+    "batch_year": 1989,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "prahlad.stqc@nic.in"
+      },
+      {
+        "type": "personal",
+        "email": "prahladgupta@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 456,
+    "lm_number": 456,
+    "prefix": "Er.",
+    "name": "Quamrul Hassan",
+    "batch_year": 1989,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "qhassan@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 467,
+    "lm_number": 467,
+    "prefix": "Er.",
+    "name": "Rajesh Yadav",
+    "batch_year": 1989,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pamelraj@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 454,
+    "lm_number": 454,
+    "prefix": "Er.",
+    "name": "Rajib Kumar Roy",
+    "batch_year": 1989,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "royrajib852@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "rajib.roy@hmel.in"
+      }
+    ]
+  },
+  {
+    "id": 162,
+    "lm_number": 162,
+    "prefix": "Er.",
+    "name": "Sharad Mahendra",
+    "batch_year": 1989,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 393,
+    "lm_number": 393,
+    "prefix": "Er.",
+    "name": "Vikram Singh",
+    "batch_year": 1989,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vikramsingh_1965@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "lm_number": 382,
+    "prefix": "Er.",
+    "name": "Vinaya Kumar Singh",
+    "batch_year": 1989,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vinaya@cadence.com"
+      },
+      {
+        "type": "personal",
+        "email": "thakurvk@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "lm_number": 372,
+    "prefix": "Er.",
+    "name": "Virendra Kumar Kanojia",
+    "batch_year": 1989,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "virenkot@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "virendrakumar@bel.co.in"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "lm_number": 305,
+    "prefix": "Er.",
+    "name": "Vivek Saxena",
+    "batch_year": 1989,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "id": 509,
+    "lm_number": 509,
+    "prefix": "Er.",
+    "name": "Rajesh Kumar Maurya",
+    "batch_year": 1996,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajesh_m2000@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 551,
+    "lm_number": 551,
+    "prefix": "Er.",
+    "name": "Rajesh Prakash Agarwal",
+    "batch_year": 1996,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rpagarwal123@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "agarwalrp@indianoil.in"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "lm_number": 74,
+    "prefix": "Er.",
+    "name": "Sanjay Choudhary",
+    "batch_year": 1996,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 553,
+    "lm_number": 553,
+    "prefix": "Er.",
+    "name": "Sanjay Kumar",
+    "batch_year": 1996,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sanjay.gazi@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "lm_number": 405,
+    "prefix": "Er.",
+    "name": "Yatendra Garg",
+    "batch_year": 1996,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "garg.yatendra@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "yatendra_garg@rediffmail.com"
+      }
+    ]
+  }
+]

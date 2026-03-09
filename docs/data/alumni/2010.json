@@ -1,0 +1,46 @@
+[
+  {
+    "id": 519,
+    "lm_number": 519,
+    "prefix": "Er.",
+    "name": "Arpit Srivastava",
+    "batch_year": 2010,
+    "branch": "Chemical",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "arpitsrivastava03@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 520,
+    "lm_number": 520,
+    "prefix": "Er.",
+    "name": "Pravesh Singh",
+    "batch_year": 2010,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pravesh.mnnit@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "praveshsingh@mecon.co.in"
+      }
+    ]
+  }
+]

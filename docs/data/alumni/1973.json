@@ -1,0 +1,260 @@
+[
+  {
+    "id": 465,
+    "lm_number": 465,
+    "prefix": "Cdr.",
+    "name": "S. K. Joshi",
+    "batch_year": 1973,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "skjoshi.109@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "lm_number": 250,
+    "prefix": "Er.",
+    "name": "Ajit Kumar Jauhari",
+    "batch_year": 1973,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "akjauhari1@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "lm_number": 420,
+    "prefix": "Er.",
+    "name": "P. K. Agarwal",
+    "batch_year": 1973,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "bhelpka@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "pka51@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 578,
+    "lm_number": 578,
+    "prefix": "Er.",
+    "name": "Prem Prakash Gautam",
+    "batch_year": 1973,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "prem52prakash@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "lm_number": 90,
+    "prefix": "Er.",
+    "name": "Rabindra Mathur",
+    "batch_year": 1973,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rabindramathur@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "lm_number": 23,
+    "prefix": "Er.",
+    "name": "Rajeev Mital",
+    "batch_year": 1973,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rajeevmital@rediffmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "rajeevmital@systemconsult.in"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "lm_number": 26,
+    "prefix": "Er.",
+    "name": "Rajesh Chandra Sharma",
+    "batch_year": 1973,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rcs208@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "lm_number": 24,
+    "prefix": "Er.",
+    "name": "Ravinder Joshi",
+    "batch_year": 1973,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ravinderkumar14@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "lm_number": 87,
+    "prefix": "Er.",
+    "name": "Rishi Pal Singh",
+    "batch_year": 1973,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rps@elegantship.com"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "lm_number": 27,
+    "prefix": "Er.",
+    "name": "S. P. Arora",
+    "batch_year": 1973,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shashi.arora25@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "lm_number": 95,
+    "prefix": "Er.",
+    "name": "Satya Prakash Gupta",
+    "batch_year": 1973,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "spgupta@swamatics.com"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "lm_number": 22,
+    "prefix": "Er.",
+    "name": "T. C. Madan",
+    "batch_year": 1973,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 64,
+    "lm_number": 64,
+    "prefix": "Er.",
+    "name": "V. K. Sharma",
+    "batch_year": 1973,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

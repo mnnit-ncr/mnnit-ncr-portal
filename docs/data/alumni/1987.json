@@ -1,0 +1,467 @@
+[
+  {
+    "id": 547,
+    "lm_number": 547,
+    "prefix": "Dr.",
+    "name": "Rajeev Goel",
+    "batch_year": 1987,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rgoel67@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "lm_number": 238,
+    "prefix": "Er.",
+    "name": "Anubha Goyal",
+    "batch_year": 1987,
+    "branch": "Computer Applications",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "goyal.anubha@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 199,
+    "lm_number": 199,
+    "prefix": "Er.",
+    "name": "Anurag Garg (Rajvanshi)",
+    "batch_year": 1987,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "anuragexen@rediffmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "anuragcpwd@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 356,
+    "lm_number": 356,
+    "prefix": "Er.",
+    "name": "Ashok Kumar Verma",
+    "batch_year": 1987,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ashokiimc@yahoo.co.uk"
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "lm_number": 408,
+    "prefix": "Er.",
+    "name": "Ashwani Kumar Verma",
+    "batch_year": 1987,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "akverma2006@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 484,
+    "lm_number": 484,
+    "prefix": "Er.",
+    "name": "C. P. Singh",
+    "batch_year": 1987,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "cpsmedica64@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "lm_number": 146,
+    "prefix": "Er.",
+    "name": "C. P. Srivastava",
+    "batch_year": 1987,
+    "branch": "Production Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "cpsrivastava50@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 482,
+    "lm_number": 482,
+    "prefix": "Er.",
+    "name": "Dinesh Kumar Panduval",
+    "batch_year": 1987,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dkpanduval@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "lm_number": 248,
+    "prefix": "Er.",
+    "name": "Ishita Sen",
+    "batch_year": 1987,
+    "branch": "Computer Applications",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "ishita_sen@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "lm_number": 101,
+    "prefix": "Er.",
+    "name": "M. Udaya Bhaskar",
+    "batch_year": 1987,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "muday_bhaskar@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 485,
+    "lm_number": 485,
+    "prefix": "Er.",
+    "name": "N. L. Verma",
+    "batch_year": 1987,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vermanl1966@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 200,
+    "lm_number": 200,
+    "prefix": "Late",
+    "name": "Er. Narendra Singh Sisodia",
+    "batch_year": 1987,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 510,
+    "lm_number": 510,
+    "prefix": "Er.",
+    "name": "Pankaj Goel",
+    "batch_year": 1987,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "npankajg@yahoo.co.in"
+      },
+      {
+        "type": "personal",
+        "email": "pankajg1965@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 462,
+    "lm_number": 462,
+    "prefix": "Er.",
+    "name": "R. Rama",
+    "batch_year": 1987,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rmama28@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "lm_number": 144,
+    "prefix": "Er.",
+    "name": "Rajeev Dhawan",
+    "batch_year": 1987,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 152,
+    "lm_number": 152,
+    "prefix": "Er.",
+    "name": "Rajesh Talwar",
+    "batch_year": 1987,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "r_talwar@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 483,
+    "lm_number": 483,
+    "prefix": "Er.",
+    "name": "Sahul Khurana",
+    "batch_year": 1987,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sahulk@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "sahul@atlantisplus.com"
+      }
+    ]
+  },
+  {
+    "id": 362,
+    "lm_number": 362,
+    "prefix": "Er.",
+    "name": "Sandeep Chandra",
+    "batch_year": 1987,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "schandranoida@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 349,
+    "lm_number": 349,
+    "prefix": "Er.",
+    "name": "Sanjay Srivastav",
+    "batch_year": 1987,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sanjay.srivastav@relianceada.com"
+      },
+      {
+        "type": "personal",
+        "email": "sanjay.srivastav@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "lm_number": 376,
+    "prefix": "Er.",
+    "name": "Shankar Saran",
+    "batch_year": 1987,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shankarsaran@ntpc.co.in"
+      }
+    ]
+  },
+  {
+    "id": 355,
+    "lm_number": 355,
+    "prefix": "Er.",
+    "name": "Supriyo Halder",
+    "batch_year": 1987,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "shalder@gail.co.in"
+      }
+    ]
+  },
+  {
+    "id": 350,
+    "lm_number": 350,
+    "prefix": "Er.",
+    "name": "Vibhay Kumar",
+    "batch_year": 1987,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vibhay@powergridindia.com"
+      },
+      {
+        "type": "personal",
+        "email": "vibhay.kumar@rediffmail.com"
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "lm_number": 134,
+    "prefix": "Er.",
+    "name": "Virender",
+    "batch_year": 1987,
+    "branch": "",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  }
+]

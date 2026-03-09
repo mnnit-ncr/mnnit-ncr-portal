@@ -1,0 +1,344 @@
+[
+  {
+    "id": 296,
+    "lm_number": 296,
+    "prefix": "Er.",
+    "name": "Amit Saraswat",
+    "batch_year": 1992,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 218,
+    "lm_number": 218,
+    "prefix": "Er.",
+    "name": "Anand Kumar Mishra",
+    "batch_year": 1992,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mkanand68@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "lm_number": 262,
+    "prefix": "Er.",
+    "name": "Ashish Rakheja",
+    "batch_year": 1992,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "a_rakheja@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "lm_number": 419,
+    "prefix": "Er.",
+    "name": "Ashutosh Tyagi",
+    "batch_year": 1992,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "atyagi11@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 505,
+    "lm_number": 505,
+    "prefix": "Er.",
+    "name": "Harbansh Singh",
+    "batch_year": 1992,
+    "branch": "Civil Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "hhjoshia@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 593,
+    "lm_number": 593,
+    "prefix": "Er.",
+    "name": "Muneesh Batra",
+    "batch_year": 1992,
+    "branch": "Production Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "muneesh.batra@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 216,
+    "lm_number": 216,
+    "prefix": "Er.",
+    "name": "Naveen Tyagi",
+    "batch_year": 1992,
+    "branch": "Electronics Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "tyagi_naveen@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 461,
+    "lm_number": 461,
+    "prefix": "Er.",
+    "name": "Pankaj Kumar",
+    "batch_year": 1992,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pankajbiodata@gmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "developerarchitect@bol.net.in"
+      }
+    ]
+  },
+  {
+    "id": 204,
+    "lm_number": 204,
+    "prefix": "Er.",
+    "name": "Pawan Tyagi",
+    "batch_year": 1992,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pawantyagi@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "lm_number": 236,
+    "prefix": "Er.",
+    "name": "Raj Bansh Singh",
+    "batch_year": 1992,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "rbsingh@technip.com"
+      },
+      {
+        "type": "personal",
+        "email": "rajbansh.singh@technipfmc.com"
+      }
+    ]
+  },
+  {
+    "id": 174,
+    "lm_number": 174,
+    "prefix": "Er.",
+    "name": "Rajeev Pandey",
+    "batch_year": 1992,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "pandey_r@hotmail.com"
+      }
+    ]
+  },
+  {
+    "id": 188,
+    "lm_number": 188,
+    "prefix": "Er.",
+    "name": "Sanjay Budholiya",
+    "batch_year": 1992,
+    "branch": "Computer Science",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": []
+  },
+  {
+    "id": 345,
+    "lm_number": 345,
+    "prefix": "Er.",
+    "name": "Sanjay Kumar Chikara",
+    "batch_year": 1992,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sanjay_chikara@yahoo.com"
+      },
+      {
+        "type": "personal",
+        "email": "s.chikara@iontrading.com"
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "lm_number": 416,
+    "prefix": "Er.",
+    "name": "Sanjeev Kumar Kassi",
+    "batch_year": 1992,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sanjeev_kassi@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "lm_number": 230,
+    "prefix": "Er.",
+    "name": "Senjeet Kumar",
+    "batch_year": 1992,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "senjeetkumar@yahoo.co.in"
+      }
+    ]
+  },
+  {
+    "id": 455,
+    "lm_number": 455,
+    "prefix": "Er.",
+    "name": "Shailendra Kumar Vaish",
+    "batch_year": 1992,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "vaishmalti@yahoo.com"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "lm_number": 245,
+    "prefix": "Er.",
+    "name": "Trilok Singh",
+    "batch_year": 1992,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "trilok26@gmail.com"
+      }
+    ]
+  }
+]
