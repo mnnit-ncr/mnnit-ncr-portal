@@ -5,13 +5,13 @@ import data from '../data/executive-body.json'
 <template>
   <div class="executive-page">
 
-    <h1><align="centre">Executive Body</h1>
+    <h1><align="centre">Executive Body</align></h1>
 
     <!-- Leadership -->
     <div class="leadership-grid">
       <div class="card">
         <h3>Patron</h3>
-        <p><strong>{{ data.leadership.patron.name }}&nbsp;
+        <p><strong>{{ data.leadership.patron.name }}&nbsp;"("
         {{ data.leadership.patron.batch }}&nbsp;")"</strong></p>
         <p>{{ data.leadership.patron.email }}</p>
       </div>
