@@ -198,5 +198,47 @@
         "email": "singhvinitk@yahoo.com"
       }
     ]
-  }
+  },
+  {
+    "id": 605,
+    "lm_number": 605,
+    "prefix": "Er.",
+    "name": "Amit Hasija",
+    "batch_year": 1998,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "hasija.amit@gmail.com"
+      }
+    ]
+  },
+  {
+    "id": 606,
+    "lm_number": 606,
+    "prefix": "Er.",
+    "name": "Kuldeep Tyagi",
+    "batch_year": 1999,
+    "branch": "Production Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "tyagik11@gmail.com,"
+      },
+      {
+        "type": "personal",
+        "email": "kuldeep.tyagi@saracasolutions.com,"
+      }
 ]
