@@ -5,7 +5,7 @@ import data from '../data/executive-body.json'
 <template>
   <div class="executive-page">
 
-    <h1><align="centre">Executive Body</align></h1>
+    <h1 align="center">Executive Body</h1>
 
     <!-- Leadership -->
     <div class="leadership-grid">
