@@ -7,7 +7,7 @@ hero:
   tagline: "Connecting 600+ Monerecons across Delhi, Noida, Gurgaon, and Faridabad."
   image:
     src: /MNNIT-logo-png.png # If you have one
-    alt: MNNIT Logo
+    alt: MNNIT NCR Logo
   actions:
     - theme: brand
       text: Browse Directory
