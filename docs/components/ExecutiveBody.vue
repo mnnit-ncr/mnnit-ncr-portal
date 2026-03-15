@@ -11,7 +11,7 @@ import data from '../data/executive-body.json'
     <div class="leadership-grid">
       <div class="card">
         <h3>Patron</h3>
-        <p><strong>{{ data.leadership.patron.name }}</strong></p>&nbsp;
+        <p><strong>{{ data.leadership.patron.name }}</strong>&nbsp;
         {{ data.leadership.patron.batch }}</p>
         <p>{{ data.leadership.patron.email }}</p>
       </div>
