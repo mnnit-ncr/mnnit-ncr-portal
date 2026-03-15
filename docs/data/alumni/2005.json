@@ -1,0 +1,26 @@
+[
+  {
+    "id": 604,
+    "lm_number": 604,
+    "prefix": "Dr.",
+    "name": "Nikhil Kumar Yadav",
+    "batch_year": 2005,
+    "branch": "M.Tech",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "dryadavn22@gmail.com"
+      },
+	  {
+        "type": "personal",
+        "email": "nyadav_7@rediffmail.com"
+      }
+    ]
+  }
+]
