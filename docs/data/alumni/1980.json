@@ -425,5 +425,25 @@
         "email": "vyadav10@gmail.com"
       }
     ]
+  },
+  {
+    "id": 607,
+    "lm_number": 607,
+    "prefix": "Er.",
+    "name": "S. L. Maurya",
+    "batch_year": 1980,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "mauryasmc@gmail.com"
+      }
+    ]
   }
 ]
