@@ -58,5 +58,25 @@
         "email": "rajjaipal@gmail.com"
       }
     ]
+  },
+  {
+    "id": 609,
+    "lm_number": 609,
+    "prefix": "Er.",
+    "name": "Sudhir Kumar",
+    "batch_year": 2008,
+    "branch": "Mechanical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "sudhir30kumar@gmail.com"
+      }
+    ]
   }
 ]
