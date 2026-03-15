@@ -8,7 +8,7 @@ pageClass: full-width-directory
 
 # Alumni Directory (Name-wise)
 
-[← Back to Directory](/alumni)
+[← Back to Directory](../)
 
 <script setup>
 import { data as alumni } from './index.data.ts'

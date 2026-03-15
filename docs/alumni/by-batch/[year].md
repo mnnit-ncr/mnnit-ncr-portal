@@ -8,7 +8,7 @@ layout: page
 
 # Batch of {{ $params.year }}
 
-[← Back to Directory](/alumni/by-batch)
+[← Back to Directory](./)
 
 <script setup>
 import { useData } from 'vitepress'
