@@ -101,5 +101,29 @@
         "email": "yatendra_garg@rediffmail.com"
       }
     ]
+  },
+  {
+    "id": 608,
+    "lm_number": 608,
+    "prefix": "Er.",
+    "name": "Suneet Vardhan Gupta  ",
+    "batch_year": 1996,
+    "branch": "Electrical Engineering",
+    "current": {
+      "role": "",
+      "company": "",
+      "location": ""
+    },
+    "links": {},
+    "emails": [
+      {
+        "type": "personal",
+        "email": "svgupta100@rediffmail.com"
+      },
+      {
+        "type": "personal",
+        "email": "yatendra_garg@rediffmail.com"
+      }
+    ]
   }
 ]
