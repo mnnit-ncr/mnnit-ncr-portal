@@ -17,21 +17,21 @@ import data from '../data/executive-body.json'
 
       <div class="card">
         <h3>President</h3>
-        <p><strong>{{ data.leadership.president.name }}&nbsp;({{ data.leadership.president.batch }}</strong></p>
+        <p><strong>{{ data.leadership.president.name }}&nbsp;({{ data.leadership.president.batch }})</strong></p>
         <p>{{ data.leadership.president.phone }}</p>
         <p>{{ data.leadership.president.email }}</p>
       </div>
 
       <div class="card">
         <h3>General Secretary</h3>
-        <p><strong>{{ data.leadership.generalSecretary.name }}&nbsp;({{ data.leadership.generalSecretary.batch }}</strong></p>
+        <p><strong>{{ data.leadership.generalSecretary.name }}&nbsp;({{ data.leadership.generalSecretary.batch }})</strong></p>
         <p>{{ data.leadership.generalSecretary.phone }}</p>
         <p>{{ data.leadership.generalSecretary.email }}</p>
       </div>
 
       <div class="card">
         <h3>Treasurer</h3>
-        <p><strong>{{ data.leadership.treasurer.name }}&nbsp;({{ data.leadership.treasurer.batch }}</strong></p>
+        <p><strong>{{ data.leadership.treasurer.name }}&nbsp;({{ data.leadership.treasurer.batch }})</strong></p>
         <p>{{ data.leadership.treasurer.phone }}</p>
         <p>{{ data.leadership.treasurer.email }}</p>
       </div>
