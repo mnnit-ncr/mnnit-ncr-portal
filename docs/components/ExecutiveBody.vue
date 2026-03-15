@@ -11,8 +11,8 @@ import data from '../data/executive-body.json'
     <div class="leadership-grid">
       <div class="card">
         <h3>Patron</h3>
-        <p><strong>{{ data.leadership.patron.name }}</strong></p>
-        <p>{{ data.leadership.patron.batch }}</p>
+        <p><strong>{{ data.leadership.patron.name }}</strong></p>&nbsp;
+        {{ data.leadership.patron.batch }}</p>
         <p>{{ data.leadership.patron.email }}</p>
       </div>
 
@@ -42,7 +42,7 @@ import data from '../data/executive-body.json'
     </div>
 
     <!-- Executive Committee -->
-    <h2>Executive Committee</h2>
+    <h2>Executive Committee Members</h2>
     <table>
       <thead>
         <tr>
@@ -66,7 +66,7 @@ import data from '../data/executive-body.json'
     </table>
 
     <!-- Working Committee -->
-    <h2>Working Committee</h2>
+    <h2>Working Committee Members</h2>
 
     <table>
       <thead>
