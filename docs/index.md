@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: "MONERECO (MNNIT)"
-  text: "Alumni Association — Delhi NCR"
-  tagline: "Connecting 600+ Monerecons across Delhi, Noida, Gurgaon, and Faridabad."
+  text: "Alumni Association - Delhi NCR"
+  tagline: "Connecting Monerecons (Mnnitians) across Delhi, Noida, Gurgaon, and Faridabad."
   image:
     src: /MNNIT-logo-png.png # If you have one
     alt: MNNIT NCR Logo
@@ -27,6 +27,7 @@ features:
   - title: Active Community
     icon: 🤝
     details: Join our **exclusive WhatsApp and Google Groups** to stay updated on local NCR meetups and professional opportunities.
+    link: /community
 
   - title: Know Your Alumni
     icon: 🎤
