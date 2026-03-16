@@ -23,6 +23,7 @@ features:
   - title: Professional Directory
     icon: 👥
     details: Search our network of senior professionals and young graduates by **Name, Batch, or Membership Number**.
+    link: /alumni
 
   - title: Active Community
     icon: 🤝
@@ -32,16 +33,20 @@ features:
   - title: Know Your Alumni
     icon: 🎤
     details: Watch recorded sessions with **distinguished alumni** sharing their journeys from MNNIT to leadership roles.
+    link: /community
 
   - title: Regular Gatherings
     icon: 🎓
     details: From **Annual Family Get-Togethers** to focused networking meets held across the NCR region.
+    link: /about
 
   - title: Relive the Moments
     icon: 📸
     details: Browse high-quality photo galleries of our **past events and celebrations**.
+    link: /past-events
 
   - title: Life Membership
     icon: 🪪
     details: Secure your place in the association with a **one-time Life Membership** fee.
+    link: /community
 ---
