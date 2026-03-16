@@ -10,7 +10,7 @@ pageClass: full-width-directory
 # About the Association
 
 <p class="intro-text">
-  The <strong>MONERECO (MNNIT) Alumni Association - Delhi NCR </strong> was established in 1988–89 in Faridabad by fellow monerecons / executive committee members. This platform serves as a vital bridge for alumni of <strong>Motilal Nehru National Institute of Technology (MNNIT), Prayagraj (Allahabad)</strong> living and working in the National Capital Region. Er. Anil Uppal (74-M), the founder President has been honoured as the life time patron of the association.
+  The <strong>MONERECO (MNNIT) Alumni Association - Delhi NCR </strong> was established in 1988–89 in Faridabad by fellow monerecons / executive committee members. This platform serves as a vital bridge for alumni of <strong>Motilal Nehru National Institute of Technology (MNNIT), Prayagraj (Allahabad)</strong> living and working in the National Capital Region. Er. Anil Uppal (74-M), the founder President has been honoured as the life time Patron of the association.
 </p>
 
 <div class="stats-banner">
@@ -39,7 +39,7 @@ pageClass: full-width-directory
       </div>
       <div class="leader-entry">
         <span class="role">Former President</span>
-        <span class="name">Er. Ramesh Thakur</span>
+        <span class="name">Er. Ramesh Kumar Thakur</span>
         <span class="batch">1975 - Mechanical</span>
       </div>
       <div class="leader-entry">
@@ -60,7 +60,7 @@ pageClass: full-width-directory
     <ul class="activity-list">
       <li>
         <strong>Annual Family Get-Together</strong>
-        <p> Flagship event bringing families together for greater nonding reliving past moments.</p>
+        <p> Flagship event bringing families together for greater bonding reliving past moments.</p>
       </li>
       <li>
         <strong>Individual Alumni Get-Togethers</strong>
@@ -79,15 +79,15 @@ pageClass: full-width-directory
   <div class="purpose-grid">
     <div class="purpose-item">
       <div class="icon">🤝</div>
-      <p>Maintain lifelong connections among MNNIT alumni.</p>
+      <p>Lifelong bonding among NCR alumni.</p>
     </div>
     <div class="purpose-item">
       <div class="icon">💼</div>
-      <p>Provide professional networking opportunities.</p>
+      <p>Professional networking opportunities.</p>
     </div>
     <div class="purpose-item">
       <div class="icon">🏠</div>
-      <p>Support alumni in personal and professional matters.</p>
+      <p>Personal / Professional support.</p>
     </div>
   </div>
 </section>
