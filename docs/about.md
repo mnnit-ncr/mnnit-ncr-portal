@@ -10,12 +10,12 @@ pageClass: full-width-directory
 # About the Association
 
 <p class="intro-text">
-  The <strong>MONERECO (MNNIT) Alumni Association — Delhi NCR Chapter</strong> was established in 1988–89 in Faridabad. Founded by a dedicated group of Monerecons, it serves as a vital bridge for alumni of <strong>Motilal Nehru National Institute of Technology (MNNIT), Prayagraj</strong> living and working in the National Capital Region.
+  The <strong>MONERECO (MNNIT) Alumni Association - Delhi NCR </strong> was established in 1988–89 in Faridabad by fellow monerecons / executive committee members. This platform serves as a vital bridge for alumni of <strong>Motilal Nehru National Institute of Technology (MNNIT), Prayagraj (Allahabad)</strong> living and working in the National Capital Region. Er. Anil Uppal (74-M), the founder President has been honoured as the life time patron of the association.
 </p>
 
 <div class="stats-banner">
   <div class="stat-item">
-    <span class="stat-value">1988</span>
+    <span class="stat-value">1988-89</span>
     <span class="stat-label">Founded</span>
   </div>
   <div class="stat-item">
@@ -23,48 +23,48 @@ pageClass: full-width-directory
     <span class="stat-label">Life Members</span>
   </div>
   <div class="stat-item">
-    <span class="stat-value">NCR</span>
+    <span class="stat-value">Delhi-NCR</span>
     <span class="stat-label">Coverage</span>
   </div>
 </div>
 
 <div class="about-grid">
   <section class="info-card leadership-history">
-    <h2>Our Leadership</h2>
+    <h2>Presidents</h2>
     <div class="leader-list">
       <div class="leader-entry current">
         <span class="role">Current President</span>
         <span class="name">Er. M. P. Arya</span>
-        <span class="batch">1975 — Mechanical</span>
+        <span class="batch">1975 - Mechanical</span>
       </div>
       <div class="leader-entry">
         <span class="role">Former President</span>
         <span class="name">Er. Ramesh Thakur</span>
-        <span class="batch">1975 — Mechanical</span>
+        <span class="batch">1975 - Mechanical</span>
       </div>
       <div class="leader-entry">
         <span class="role">Former President</span>
         <span class="name">Er. R. N. Gulati</span>
-        <span class="batch">1970 — Mechanical</span>
+        <span class="batch">1970 - Mechanical</span>
       </div>
       <div class="leader-entry founder">
         <span class="role">Founder President</span>
         <span class="name">Er. Anil Uppal</span>
-        <span class="batch">1974 — Mechanical</span>
+        <span class="batch">1974 - Mechanical</span>
       </div>
     </div>
   </section>
 
   <section class="info-card activities-section">
-    <h2>What We Do</h2>
+    <h2>Key Activities</h2>
     <ul class="activity-list">
       <li>
         <strong>Annual Family Get-Together</strong>
-        <p>Our flagship event bringing families together for celebration.</p>
+        <p> Flagship event bringing families together for greater nonding reliving past moments.</p>
       </li>
       <li>
-        <strong>Individual Alumni Meets</strong>
-        <p>Held 2–3 times a year across Delhi, Noida, and Gurugram.</p>
+        <strong>Individual Alumni Get-Togethers</strong>
+        <p>Held 2-3 times a year across Delhi, Noida, and Gurugram.</p>
       </li>
       <li>
         <strong>Professional Networking</strong>
