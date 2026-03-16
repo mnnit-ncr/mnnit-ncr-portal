@@ -39,7 +39,7 @@ pageClass: full-width-directory
       </div>
       <div class="leader-entry">
         <span class="role">Former President</span>
-        <span class="name">Er. Ramesh Kumar Thakur</span>
+        <span class="name">Er. R. K. Thakur</span>
         <span class="batch">1975 - Mechanical</span>
       </div>
       <div class="leader-entry">
