@@ -2,7 +2,6 @@
 layout: page
 title: About the Association
 sidebar: false
-pageClass: full-width-directory
 ---
 
 <div class="vp-doc about-page">

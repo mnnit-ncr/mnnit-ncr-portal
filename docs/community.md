@@ -2,7 +2,6 @@
 layout: page
 sidebar: false
 title: Alumni Community
-pageClass: full-width-directory
 ---
 
 <div class="vp-doc community-page">
