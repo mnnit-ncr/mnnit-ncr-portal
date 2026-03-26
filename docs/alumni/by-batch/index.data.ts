@@ -6,7 +6,15 @@ export default {
     const dataDir = path.resolve(__dirname, '../../data/alumni')
     return fs.readdirSync(dataDir)
       .filter(file => file.endsWith('.json'))
-      .map(file => file.replace('.json', ''))
-      .sort((a, b) => Number(b) - Number(a)) 
+      .map((file) => {
+        const fullPath = path.join(dataDir, file)
+        const alumni = JSON.parse(fs.readFileSync(fullPath, 'utf-8'))
+
+        return {
+          year: file.replace('.json', ''),
+          memberCount: alumni.length
+        }
+      })
+      .sort((a, b) => Number(b.year) - Number(a.year))
   }
 }

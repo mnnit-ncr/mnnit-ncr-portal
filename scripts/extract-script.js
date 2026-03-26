@@ -57,14 +57,15 @@ Branch normalization
 */
 
 const BRANCH_MAP = {
-
   "Civil": "Civil Engineering",
   "Mechanical": "Mechanical Engineering",
   "Electrical": "Electrical Engineering",
   "Electronics": "Electronics Engineering",
-  "Comp. Sc.": "Computer Science",
+  "Comp. Sc.": "Computer Science & Engineering",
   "Production": "Production Engineering",
-  "MCA": "Computer Applications"
+  "IT": "Information Technology",
+  "Computer Applications": "MCA",
+  "Computer Application": "MCA"
 
 }
 
