@@ -1,14 +1,13 @@
 ---
 layout: page
+pageClass: full-width-directory
 ---
 
 <div class="vp-doc">
-  <div class="container">
-      <div class="content-container">
 
 # Batch of {{ $params.year }}
 
-[← Back to Directory](./)
+<a href="./" class="back-link">← Back to Directory</a>
 
 <script setup>
 import { useData } from 'vitepress'
@@ -21,20 +20,38 @@ const alumniData = params.value.alumni
 <AlumniList :alumni="alumniData" />
 
 </div>
-  </div>
-</div>
 
-<style scoped>
-/* This ensures the container behaves like the rest of VitePress */
-.container {
-  margin: 0 auto;
-  max-width: 1152px;
-  padding: 12px 32px;
+<style>
+/* 1. Unlock VitePress constraints */
+.full-width-directory .container {
+  max-width: 100% !important;
 }
 
-@media (min-width: 960px) {
-  .container {
-    padding: 24px 64px;
-  }
+.full-width-directory .content {
+  max-width: 100% !important;
+}
+
+/* 2. Match the 1300px width of your other directory pages */
+.full-width-directory .vp-doc {
+  margin: 0 auto;
+  max-width: 1300px; 
+  padding: 40px 24px !important;
+  width: 100%;
+}
+
+.full-width-directory h1 {
+  margin-top: 20px;
+  border-bottom: 1px solid var(--vp-c-divider);
+  padding-bottom: 20px;
+}
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 20px;
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+  text-decoration: none;
 }
 </style>

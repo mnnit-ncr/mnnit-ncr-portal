@@ -2,7 +2,6 @@
 layout: page
 sidebar: false
 title: Alumni Community
-pageClass: full-width-directory
 ---
 
 <div class="vp-doc community-page">
@@ -34,7 +33,7 @@ We welcome alumni of <strong>MNNIT Prayagraj</strong> to join the Delhi NCR chap
 <p class="note">Payment via cash or account payee cheque.</p>
 </div>
 
-<a href="/forms/membership-form.docx" class="download-btn">
+<a href="/membership-form.docx" download class="download-btn">
 Download Membership Form
 </a>
 

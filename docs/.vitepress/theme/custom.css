@@ -1,0 +1,67 @@
+
+/* This fixes the Navbar by ensuring overrides only happen in the body */
+.full-width-directory .VPContent .container {
+  max-width: 100% !important;
+  width: 100%;
+}
+
+.full-width-directory .VPContent .content {
+  max-width: 100% !important;
+  padding: 32px 24px !important; 
+}
+
+/* Centers your grid and limits its width so it doesn't look stretched */
+.full-width-directory .vp-doc {
+  margin: 0 auto;
+  max-width: 1300px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Professional Back Link */
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  color: var(--vp-c-brand-1);
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* Specific styling for the Batch/Year page tiles */
+.batch-links {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(90px, 1fr));
+  gap: 12px;
+  margin-top: 20px;
+}
+
+@media (min-width: 1024px) {
+  .batch-links {
+    grid-template-columns: repeat(10, 1fr);
+  }
+}
+
+.batch-item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 4px;
+  background: var(--vp-c-bg-soft);
+  border: 1px solid var(--vp-c-divider);
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: var(--vp-c-text-1) !important;
+  text-decoration: none !important;
+  transition: all 0.2s ease;
+}
+
+.batch-item:hover {
+  border-color: var(--vp-c-brand-1);
+  background: var(--vp-c-brand-soft);
+  transform: translateY(-2px);
+}

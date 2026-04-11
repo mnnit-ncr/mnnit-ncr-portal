@@ -8,17 +8,22 @@ pageClass: full-width-directory
 import { data as years } from './index.data.ts'
 
 // Logic to group years into decades
-const groupedDecades = years.reduce((acc, year) => {
-  const yearNum = Number(year);
+const groupedDecades = years.reduce((acc, batch) => {
+  const yearNum = Number(batch.year);
   const decadeStart = Math.floor(yearNum / 10) * 10;
   const decadeLabel = `${decadeStart}s`;
-  
+
   if (!acc[decadeLabel]) {
     acc[decadeLabel] = [];
   }
-  acc[decadeLabel].push(year);
+  acc[decadeLabel].push(batch);
   return acc;
 }, {});
+
+// Sort years within each decade ascending (2010, 2011, etc.)
+Object.values(groupedDecades).forEach(decadeBuckets => {
+  decadeBuckets.sort((a, b) => Number(a.year) - Number(b.year))
+})
 
 // Sort decades descending (2020s, 2010s, etc.)
 const sortedDecades = Object.keys(groupedDecades).sort((a, b) => b.localeCompare(a));
@@ -36,11 +41,14 @@ const sortedDecades = Object.keys(groupedDecades).sort((a, b) => b.localeCompare
   <div v-for="decade in sortedDecades" :key="decade" class="decade-section">
     <h2 class="decade-title">{{ decade }}</h2>
     <div class="batch-links">
-      <a v-for="year in groupedDecades[decade]" 
-         :key="year" 
-         :href="'/alumni/by-batch/' + year" 
+      <a v-for="batch in groupedDecades[decade]" 
+         :key="batch.year" 
+         :href="'/alumni/by-batch/' + batch.year" 
          class="batch-item">
-        {{ year }}
+        <span class="batch-year">{{ batch.year }}</span>
+        <span class="batch-count">
+          {{ batch.memberCount }} {{ batch.memberCount === 1 ? 'member' : 'members' }}
+        </span>
       </a>
     </div>
   </div>
@@ -48,75 +56,59 @@ const sortedDecades = Object.keys(groupedDecades).sort((a, b) => b.localeCompare
 
 </div>
 
-<style scoped>
-/* Unlock VitePress constraints */
-.full-width-directory .container {
-  max-width: 100% !important;
-}
-.full-width-directory .content {
-  max-width: 100% !important;
-}
 
-.full-width-directory .vp-doc {
-  margin: 0 auto;
-  max-width: 1100px;
-  padding: 40px 24px !important;
-  width: 100%;
-}
 
-.decade-section {
-  margin-bottom: 48px;
-}
-
-.decade-title {
-  border-bottom: 1px solid var(--vp-c-divider);
-  padding-bottom: 12px;
-  margin-bottom: 24px;
-  font-size: 1.5rem;
-  font-weight: 700;
-  color: var(--vp-c-brand-1);
-}
-
+<style>
 .batch-links {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
-  gap: 16px;
+  gap: 12px;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
 }
 
 .batch-item {
   display: flex;
+  flex-direction: column;
+  gap: 2px;
   align-items: center;
   justify-content: center;
-  padding: 14px;
-  background: var(--vp-c-bg-soft);
+  min-height: 66px;
+  padding: 10px 8px;
   border: 1px solid var(--vp-c-divider);
   border-radius: 12px;
-  font-weight: 700;
-  color: var(--vp-c-text-1) !important;
-  text-decoration: none !important;
-  transition: all 0.25s ease;
+  background: var(--vp-c-bg-soft);
+  text-decoration: none;
+  transition: border-color 0.2s ease, transform 0.2s ease, background-color 0.2s ease;
+  text-align: center;
 }
 
 .batch-item:hover {
   border-color: var(--vp-c-brand-1);
-  background: var(--vp-c-brand-soft);
-  transform: translateY(-3px);
-  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  background: var(--vp-c-bg-alt);
+  transform: translateY(-1px);
 }
 
-.back-link {
-  display: inline-flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 24px;
-  color: var(--vp-c-brand-1);
-  font-weight: 600;
-  text-decoration: none;
+.batch-year {
+  color: var(--vp-c-text-1);
+  font-size: 0.98rem;
+  font-weight: 700;
+  line-height: 1.2;
 }
 
-.subtitle {
+.batch-count {
   color: var(--vp-c-text-2);
-  margin-bottom: 32px;
-  font-size: 1.1rem;
+  font-size: 0.72rem;
+  line-height: 1.2;
+}
+
+@media (min-width: 1280px) {
+  .batch-links {
+    grid-template-columns: repeat(10, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 1279px) {
+  .batch-links {
+    grid-template-columns: repeat(auto-fit, minmax(116px, 1fr));
+  }
 }
 </style>
