@@ -20,6 +20,15 @@ const OpenLinksInNewTabLayout = defineComponent({
           return
         }
 
+        const isNew2 = window.location.pathname.startsWith('/new2')
+        const isInternal = href.startsWith('/') || href.startsWith(window.location.origin)
+
+        if (isNew2 && isInternal) {
+          link.removeAttribute('target')
+          link.removeAttribute('rel')
+          return
+        }
+
         link.setAttribute('target', '_blank')
         link.setAttribute('rel', 'noopener noreferrer')
       })
