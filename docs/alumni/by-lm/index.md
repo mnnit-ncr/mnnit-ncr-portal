@@ -8,7 +8,7 @@ pageClass: full-width-directory
 
 # Alumni Directory (Life Membership Number)
 
-<a href="/alumni" class="back-link">← Back to Directory</a>
+<a href="/new/alumni" class="back-link">← Back to Directory</a>
 
 <script setup>
 import { data as alumni } from './index.data.ts'
