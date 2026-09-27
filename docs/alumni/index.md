@@ -9,21 +9,21 @@ const cards = [
     title: "Name-wise",
     subtitle: "Alphabetical Order",
     description: "Easily locate old friends and colleagues by their full names.",
-    link: "/alumni/by-name/",
+    link: "/new/alumni/by-name/",
     icon: "👤"
   },
   {
     title: "Life Members",
     subtitle: "Permanent Community",
     description: "Access the exclusive registry of our verified Life Members.",
-    link: "/alumni/by-lm/",
+    link: "/new/alumni/by-lm/",
     icon: "🆔"
   },
   {
     title: "Graduation Batch",
     subtitle: "Year-by-Year",
     description: "Revisit your roots and browse alumni by their passing year.",
-    link: "/alumni/by-batch/",
+    link: "/new/alumni/by-batch/",
     icon: "🎓"
   }
 ]

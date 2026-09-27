@@ -33,7 +33,7 @@ const sortedDecades = Object.keys(groupedDecades).sort((a, b) => b.localeCompare
 
 # Alumni Directory (By Batch)
 
-<a href="/alumni" class="back-link">← Back to Directory</a>
+<a href="/new/alumni" class="back-link">← Back to Directory</a>
 
 <p class="subtitle">Select a graduation year to view the batch members:</p>
 
@@ -43,7 +43,7 @@ const sortedDecades = Object.keys(groupedDecades).sort((a, b) => b.localeCompare
     <div class="batch-links">
       <a v-for="batch in groupedDecades[decade]" 
          :key="batch.year" 
-         :href="'/alumni/by-batch/' + batch.year" 
+         :href="'/new/alumni/by-batch/' + batch.year"
          class="batch-item">
         <span class="batch-year">{{ batch.year }}</span>
         <span class="batch-count">

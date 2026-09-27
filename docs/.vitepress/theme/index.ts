@@ -1,13 +1,15 @@
 // https://vitepress.dev/guide/custom-theme
 import { defineComponent, h, onBeforeUnmount, onMounted } from 'vue'
-import type { Theme } from 'vitepress'
+import { useData, type Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
+import LegacyHome from './components/LegacyHome.vue'
 import './style.css'
 import './custom.css'
 
 const OpenLinksInNewTabLayout = defineComponent({
   name: 'OpenLinksInNewTabLayout',
   setup() {
+    const { frontmatter } = useData()
     let observer: MutationObserver | undefined
 
     const updateLinks = () => {
@@ -15,6 +17,15 @@ const OpenLinksInNewTabLayout = defineComponent({
         const href = link.getAttribute('href')?.trim()
 
         if (!href || href.startsWith('#')) {
+          return
+        }
+
+        const isNew2 = window.location.pathname.startsWith('/new2')
+        const isInternal = href.startsWith('/') || href.startsWith(window.location.origin)
+
+        if (isNew2 && isInternal) {
+          link.removeAttribute('target')
+          link.removeAttribute('rel')
           return
         }
 
@@ -42,7 +53,10 @@ const OpenLinksInNewTabLayout = defineComponent({
       observer?.disconnect()
     })
 
-    return () => h(DefaultTheme.Layout)
+    return () => {
+      if (frontmatter.value.layout === 'legacy-home') return h(LegacyHome)
+      return h(DefaultTheme.Layout)
+    }
   }
 })
 
