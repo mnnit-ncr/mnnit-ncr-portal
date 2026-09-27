@@ -65,3 +65,31 @@
   background: var(--vp-c-brand-soft);
   transform: translateY(-2px);
 }
+
+/*
+ * Version 1 has more top-level links than VitePress's stock navigation is
+ * designed to hold at tablet and small-laptop widths. Switch to the mobile
+ * navigation before those links can push the page wider than the viewport.
+ */
+@media (max-width: 1279px) {
+  .VPNavBarMenu,
+  .VPNavBarAppearance,
+  .VPNavBarSocialLinks,
+  .VPNavBarExtra {
+    display: none !important;
+  }
+
+  .VPNavBarHamburger {
+    display: flex !important;
+  }
+
+  .VPNavScreen {
+    display: block !important;
+  }
+}
+
+@media (max-width: 640px) {
+  .full-width-directory .VPContent .content {
+    padding: 24px 16px !important;
+  }
+}
