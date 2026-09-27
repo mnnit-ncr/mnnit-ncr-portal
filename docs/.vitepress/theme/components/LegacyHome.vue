@@ -41,7 +41,7 @@ const alumniEpisodes = [
         <strong>Our new website is ready for you to explore.</strong>
         <span>Please try the new design and share your feedback in the alumni WhatsApp group.</span>
       </div>
-      <a href="/new/">Try the new design <span aria-hidden="true">→</span></a>
+      <a href="/new2/">Try the new design <span aria-hidden="true">→</span></a>
     </aside>
 
     <header class="legacy-header">
@@ -59,7 +59,7 @@ const alumniEpisodes = [
       <nav class="legacy-utility" aria-label="Homepage links">
         <a href="/"><img src="/legacy/homeicon_1.gif" alt=""> <strong>Home</strong></a>
         <span aria-hidden="true">|</span>
-        <a href="/new/"><strong>New Website</strong></a>
+        <a href="/new2/"><strong>New Website</strong></a>
       </nav>
     </header>
 

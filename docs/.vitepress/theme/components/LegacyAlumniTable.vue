@@ -31,7 +31,7 @@ const displayEmails = (emails?: Email[]) => emails
   <div class="legacy-directory-page">
     <div class="legacy-directory-switch">
       <span><strong>You are viewing the classic website.</strong></span>
-      <a href="/new/">Try the new design →</a>
+      <a href="/new2/">Try the new design →</a>
     </div>
 
     <nav class="legacy-directory-nav" aria-label="Classic website navigation">
@@ -71,9 +71,8 @@ const displayEmails = (emails?: Email[]) => emails
 </template>
 
 <style scoped>
-:global(html) { background: #fff; }
-:global(body) { margin: 0; background: #fff; }
 :global(.legacy-directory-route .VPContent) { padding: 0 !important; }
+:global(.legacy-directory-route .VPLocalNav) { display: none !important; }
 :global(.legacy-directory-route .VPContent > .container) {
   max-width: none !important;
   margin: 0 !important;

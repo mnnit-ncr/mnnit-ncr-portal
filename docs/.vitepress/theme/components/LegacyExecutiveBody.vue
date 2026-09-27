@@ -13,7 +13,7 @@ const leaders = [
   <div class="legacy-executive-page">
     <div class="legacy-executive-switch">
       <strong>You are viewing the classic website.</strong>
-      <a href="/new/">Try the new design →</a>
+      <a href="/new2/">Try the new design →</a>
     </div>
 
     <header class="legacy-executive-header">
@@ -41,6 +41,17 @@ const leaders = [
         </tbody>
       </table>
 
+      <section class="mobile-leadership-list" aria-label="Executive Body">
+        <h1>Executive Body</h1>
+        <article v-for="leader in leaders" :key="leader.role">
+          <strong class="mobile-leader-role">{{ leader.role }}</strong>
+          <strong>{{ leader.name }}</strong>
+          <span>{{ leader.batch }}</span>
+          <a v-if="leader.email" :href="`mailto:${leader.email}`">{{ leader.email }}</a>
+          <span v-if="leader.phone">{{ leader.phone }}</span>
+        </article>
+      </section>
+
       <table class="legacy-executive-table">
         <thead><tr class="section-title"><th colspan="3">Executive Committee Members</th></tr></thead>
         <tbody>
@@ -67,8 +78,8 @@ const leaders = [
 </template>
 
 <style scoped>
-:global(html), :global(body) { margin: 0; background: #fff; }
 :global(.legacy-executive-route .VPContent) { padding: 0 !important; }
+:global(.legacy-executive-route .VPLocalNav) { display: none !important; }
 :global(.legacy-executive-route .VPContent > .container),
 :global(.legacy-executive-route .VPContent .content),
 :global(.legacy-executive-route .vp-doc) {
@@ -118,15 +129,73 @@ const leaders = [
 .legacy-executive-table td:nth-child(1) { width: 30%; }
 .legacy-executive-table td:nth-child(2) { width: 12%; text-align: center; }
 .section-title th { color: brown; background: #e7eefe; font-family: Arial, Helvetica, sans-serif; font-size: 23px; text-align: center; }
+.leadership-table { table-layout: fixed; }
 .leadership-table th, .leadership-table td { width: 25%; text-align: center; }
+.leadership-table td { overflow-wrap: anywhere; }
+.mobile-leadership-list { display: none; }
 
-@media (max-width: 640px) {
+@media (max-width: 900px) {
   .legacy-executive-switch { align-items: stretch; flex-direction: column; gap: 7px; text-align: center; }
   .legacy-executive-header { grid-template-columns: 1fr 1fr; }
   .legacy-executive-header div { grid-column: 1 / -1; grid-row: 2; font-size: 25px; }
   .legacy-executive-header > a { grid-column: 1 / -1; justify-content: center; }
   .legacy-executive-header > img { margin: auto; }
-  .legacy-executive-table { display: block; overflow-x: auto; }
-  .leadership-table { min-width: 680px; }
+  .legacy-executive-page main { padding: 8px; }
+
+  .legacy-executive-table {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+    overflow: visible;
+  }
+
+  .legacy-executive-table th,
+  .legacy-executive-table td {
+    padding: 7px 6px;
+    overflow-wrap: anywhere;
+    word-break: normal;
+  }
+
+  .legacy-executive-table:not(.leadership-table) td:nth-child(1) { width: 29%; }
+  .legacy-executive-table:not(.leadership-table) td:nth-child(2) { width: 15%; }
+  .legacy-executive-table:not(.leadership-table) td:nth-child(3) { width: 56%; }
+
+  .leadership-table { display: none; }
+
+  .mobile-leadership-list {
+    display: block;
+    margin-bottom: 14px;
+    border: 1px solid #777;
+  }
+
+  .mobile-leadership-list h1 {
+    margin: 0;
+    padding: 5px 7px;
+    border: 0;
+    color: brown;
+    background: #e7eefe;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 23px;
+    line-height: 1.2;
+    text-align: center;
+  }
+
+  .mobile-leadership-list article {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 10px 12px;
+    border-top: 1px solid #d0d7e5;
+    color: #d2691e;
+    font-family: Calibri, Arial, sans-serif;
+    overflow-wrap: anywhere;
+  }
+
+  .mobile-leader-role {
+    margin-bottom: 2px;
+    color: brown;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 17px;
+  }
 }
 </style>
